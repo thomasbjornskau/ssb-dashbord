@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<text x="60" y="92" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#274246" text-anchor="start">Fire måter å vise usikkerhet på</text>
+<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">Brukeren skal se både hva vi vet og hvor sikkert vi vet det</text>
+<line x1="60" y1="160" x2="1860" y2="160" stroke="#cdd3d4" stroke-width="2"/>
+<rect x="1740.0" y="62" width="120.0" height="40" rx="20" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="1800.0" y="89" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#274246" text-anchor="middle">Oversikt</text>
+<rect x="60" y="182" width="660" height="393" rx="6" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.2"/>
+<text x="80" y="216" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">1  Bånd</text>
+<text x="80" y="240" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Rundt en kurve eller en framskriving</text>
+<line x1="130" y1="461.55555555555554" x2="680" y2="461.55555555555554" stroke="#e4e9e9" stroke-width="1"/>
+<text x="122" y="465.55555555555554" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="end">5,0</text>
+<line x1="130" y1="402.9444444444444" x2="680" y2="402.9444444444444" stroke="#e4e9e9" stroke-width="1"/>
+<text x="122" y="406.9444444444444" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="end">5,5</text>
+<line x1="130" y1="344.33333333333326" x2="680" y2="344.33333333333326" stroke="#e4e9e9" stroke-width="1"/>
+<text x="122" y="348.33333333333326" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="end">6,0</text>
+<line x1="130" y1="285.7222222222222" x2="680" y2="285.7222222222222" stroke="#e4e9e9" stroke-width="1"/>
+<text x="122" y="289.7222222222222" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="end">6,5</text>
+<polygon points="386.7,392.4 405.0,386.9 423.3,381.1 441.7,375.1 460.0,369.1 478.3,362.9 496.7,356.7 515.0,350.5 533.3,344.2 551.7,337.9 570.0,331.5 588.3,325.1 606.7,318.7 625.0,312.2 643.3,305.7 661.7,299.2 661.7,362.5 643.3,364.2 625.0,365.9 606.7,367.7 588.3,369.4 570.0,371.2 551.7,373.1 533.3,374.9 515.0,376.9 496.7,378.8 478.3,380.8 460.0,382.9 441.7,385.1 423.3,387.3 405.0,389.7 386.7,392.4" fill="#cfe3f1"/>
+<polygon points="386.7,392.4 405.0,387.4 423.3,382.2 441.7,376.9 460.0,371.5 478.3,366.1 496.7,360.6 515.0,355.1 533.3,349.6 551.7,344.0 570.0,338.5 588.3,332.9 606.7,327.2 625.0,321.6 643.3,315.9 661.7,310.3 661.7,351.4 643.3,354.0 625.0,356.5 606.7,359.1 588.3,361.7 570.0,364.3 551.7,366.9 533.3,369.6 515.0,372.2 496.7,375.0 478.3,377.7 460.0,380.5 441.7,383.3 423.3,386.2 405.0,389.2 386.7,392.4" fill="#9ec7e4"/>
+<polyline points="130.0,455.7 148.3,452.2 166.7,448.7 185.0,444.0 203.3,438.1 221.7,432.2 240.0,426.4 258.3,422.9 276.7,418.2 295.0,414.7 313.3,411.1 331.7,406.5 350.0,402.9 368.3,397.1 386.7,392.4" fill="none" stroke="#0072B2" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="386.7,392.4 405.0,388.3 423.3,384.2 441.7,380.1 460.0,376.0 478.3,371.9 496.7,367.8 515.0,363.7 533.3,359.6 551.7,355.5 570.0,351.4 588.3,347.3 606.7,343.2 625.0,339.1 643.3,335.0 661.7,330.9" fill="none" stroke="#0072B2" stroke-width="3" stroke-dasharray="7 5"/>
+<line x1="386.6666666666667" y1="274" x2="386.6666666666667" y2="485" stroke="#9aa9ab" stroke-width="1"/>
+<text x="380.6666666666667" y="288" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="end">Registrert</text>
+<text x="392.6666666666667" y="288" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="start">Framskrevet</text>
+<text x="130.0" y="503" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="middle">2010</text>
+<text x="386.6666666666667" y="503" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="middle">2024</text>
+<text x="680.0" y="503" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="middle">2040</text>
+<text x="676.0" y="293.1792713949195" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#1e3a3f" text-anchor="end">95 %</text>
+<text x="676.0" y="326.2649986289199" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#1e3a3f" text-anchor="end">80 %</text>
+<text x="134" y="266" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="start">Folkemengde, millioner</text>
+<text x="80" y="545" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#1e3a3f" text-anchor="start">Brukes for framskrivinger og modellanslag over tid.</text>
+<rect x="740" y="182" width="660" height="393" rx="6" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.2"/>
+<text x="760" y="216" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">2  Feilmarginer</text>
+<text x="760" y="240" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">På søyler eller punkter</text>
+<line x1="956.25" y1="274" x2="956.25" y2="485" stroke="#e4e9e9" stroke-width="1"/>
+<text x="956.25" y="503" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="middle">40 %</text>
+<line x1="1068.75" y1="274" x2="1068.75" y2="485" stroke="#e4e9e9" stroke-width="1"/>
+<text x="1068.75" y="503" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="middle">50 %</text>
+<line x1="1181.25" y1="274" x2="1181.25" y2="485" stroke="#e4e9e9" stroke-width="1"/>
+<text x="1181.25" y="503" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="middle">60 %</text>
+<line x1="1293.75" y1="274" x2="1293.75" y2="485" stroke="#e4e9e9" stroke-width="1"/>
+<text x="1293.75" y="503" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="middle">70 %</text>
+<text x="810" y="300.1" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Region A</text>
+<line x1="1158.75" y1="295.1" x2="1248.75" y2="295.1" stroke="#0072B2" stroke-width="3"/>
+<line x1="1158.75" y1="288.1" x2="1158.75" y2="302.1" stroke="#0072B2" stroke-width="2"/>
+<line x1="1248.75" y1="288.1" x2="1248.75" y2="302.1" stroke="#0072B2" stroke-width="2"/>
+<circle cx="1203.75" cy="295.1" r="7" fill="#0072B2" stroke="#ffffff" stroke-width="2"/>
+<text x="810" y="342.3" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Region B</text>
+<line x1="1080.0" y1="337.3" x2="1237.5" y2="337.3" stroke="#0072B2" stroke-width="3"/>
+<line x1="1080.0" y1="330.3" x2="1080.0" y2="344.3" stroke="#0072B2" stroke-width="2"/>
+<line x1="1237.5" y1="330.3" x2="1237.5" y2="344.3" stroke="#0072B2" stroke-width="2"/>
+<circle cx="1158.75" cy="337.3" r="7" fill="#0072B2" stroke="#ffffff" stroke-width="2"/>
+<text x="810" y="384.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Region C</text>
+<line x1="1091.25" y1="379.5" x2="1158.75" y2="379.5" stroke="#0072B2" stroke-width="3"/>
+<line x1="1091.25" y1="372.5" x2="1091.25" y2="386.5" stroke="#0072B2" stroke-width="2"/>
+<line x1="1158.75" y1="372.5" x2="1158.75" y2="386.5" stroke="#0072B2" stroke-width="2"/>
+<circle cx="1125.0" cy="379.5" r="7" fill="#0072B2" stroke="#ffffff" stroke-width="2"/>
+<text x="810" y="426.70000000000005" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Region D</text>
+<line x1="978.75" y1="421.70000000000005" x2="1181.25" y2="421.70000000000005" stroke="#0072B2" stroke-width="3"/>
+<line x1="978.75" y1="414.70000000000005" x2="978.75" y2="428.70000000000005" stroke="#0072B2" stroke-width="2"/>
+<line x1="1181.25" y1="414.70000000000005" x2="1181.25" y2="428.70000000000005" stroke="#0072B2" stroke-width="2"/>
+<circle cx="1080.0" cy="421.70000000000005" r="7" fill="#0072B2" stroke="#ffffff" stroke-width="2"/>
+<text x="810" y="468.90000000000003" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Region E</text>
+<line x1="978.75" y1="463.90000000000003" x2="1091.25" y2="463.90000000000003" stroke="#0072B2" stroke-width="3"/>
+<line x1="978.75" y1="456.90000000000003" x2="978.75" y2="470.90000000000003" stroke="#0072B2" stroke-width="2"/>
+<line x1="1091.25" y1="456.90000000000003" x2="1091.25" y2="470.90000000000003" stroke="#0072B2" stroke-width="2"/>
+<circle cx="1035.0" cy="463.90000000000003" r="7" fill="#0072B2" stroke="#ffffff" stroke-width="2"/>
+<text x="1191.25" y="426.70000000000005" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#1e3a3f" text-anchor="start">Stor margin: lite utvalg</text>
+<text x="760" y="545" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#1e3a3f" text-anchor="start">Brukes for utvalgsundersøkelser, der presisjonen varierer mellom grupper.</text>
+<rect x="60" y="595" width="660" height="393" rx="6" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.2"/>
+<text x="80" y="629" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">3  Fordelinger</text>
+<text x="80" y="653" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Spennet i mulige verdier</text>
+<circle cx="162.35294117647058" cy="888" r="8" fill="#9ec7e4" stroke="none" stroke-width="1"/>
+<circle cx="227.05882352941174" cy="888" r="8" fill="#9ec7e4" stroke="none" stroke-width="1"/>
+<circle cx="227.05882352941174" cy="870" r="8" fill="#9ec7e4" stroke="none" stroke-width="1"/>
+<circle cx="227.05882352941174" cy="852" r="8" fill="#9ec7e4" stroke="none" stroke-width="1"/>
+<circle cx="259.4117647058823" cy="888" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="259.4117647058823" cy="870" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="291.7647058823529" cy="888" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="291.7647058823529" cy="870" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="291.7647058823529" cy="852" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="291.7647058823529" cy="834" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="291.7647058823529" cy="816" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="324.11764705882354" cy="888" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="324.11764705882354" cy="870" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="324.11764705882354" cy="852" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="356.47058823529414" cy="888" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="356.47058823529414" cy="870" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="356.47058823529414" cy="852" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="356.47058823529414" cy="834" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="356.47058823529414" cy="816" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="356.47058823529414" cy="798" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="356.47058823529414" cy="780" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="356.47058823529414" cy="762" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="356.47058823529414" cy="744" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="388.8235294117647" cy="888" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="388.8235294117647" cy="870" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="421.1764705882353" cy="888" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="421.1764705882353" cy="870" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="421.1764705882353" cy="852" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="421.1764705882353" cy="834" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="421.1764705882353" cy="816" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="421.1764705882353" cy="798" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="453.52941176470586" cy="888" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="453.52941176470586" cy="870" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="485.88235294117646" cy="888" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="485.88235294117646" cy="870" r="8" fill="#0072B2" stroke="none" stroke-width="1"/>
+<circle cx="485.88235294117646" cy="852" r="8" fill="#9ec7e4" stroke="none" stroke-width="1"/>
+<circle cx="518.2352941176471" cy="888" r="8" fill="#9ec7e4" stroke="none" stroke-width="1"/>
+<circle cx="550.5882352941177" cy="888" r="8" fill="#9ec7e4" stroke="none" stroke-width="1"/>
+<circle cx="582.9411764705882" cy="888" r="8" fill="#9ec7e4" stroke="none" stroke-width="1"/>
+<circle cx="615.2941176470588" cy="888" r="8" fill="#9ec7e4" stroke="none" stroke-width="1"/>
+<line x1="130" y1="898" x2="680" y2="898" stroke="#9aa9ab" stroke-width="1"/>
+<text x="162.35294117647058" y="916" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="middle">2,0 %</text>
+<text x="324.11764705882354" y="916" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="middle">3,0 %</text>
+<text x="485.88235294117646" y="916" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="middle">4,0 %</text>
+<text x="647.6470588235294" y="916" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="middle">5,0 %</text>
+<text x="134" y="691" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="start">Prisvekst neste år, 40 mulige utfall</text>
+<text x="582.9411764705882" y="828" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#1e3a3f" text-anchor="start">Mørke prikker:</text>
+<text x="582.9411764705882" y="846" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1e3a3f" text-anchor="start">8 av 10 utfall</text>
+<text x="80" y="958" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#1e3a3f" text-anchor="start">Lettere å forstå enn et intervall: hver prikk er et mulig utfall.</text>
+<rect x="740" y="595" width="660" height="393" rx="6" fill="#ffffff" stroke="#cdd3d4" stroke-width="1.2"/>
+<text x="760" y="629" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">4  Alternativer</text>
+<text x="760" y="653" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Utfall under ulike forutsetninger</text>
+<line x1="810" y1="898.0" x2="1360" y2="898.0" stroke="#e4e9e9" stroke-width="1"/>
+<text x="802" y="902.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="end">5,0</text>
+<line x1="810" y1="802.0909090909091" x2="1360" y2="802.0909090909091" stroke="#e4e9e9" stroke-width="1"/>
+<text x="802" y="806.0909090909091" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="end">6,0</text>
+<line x1="810" y1="706.1818181818182" x2="1360" y2="706.1818181818182" stroke="#e4e9e9" stroke-width="1"/>
+<text x="802" y="710.1818181818182" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="end">7,0</text>
+<polyline points="810.0,878.8 832.0,875.9 854.0,873.1 876.0,870.2 898.0,867.3 920.0,864.4 942.0,861.6 964.0,858.7 986.0,855.8 1008.0,852.9 1030.0,850.0" fill="none" stroke="#1e3a3f" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1030.0,850.0 1052.0,842.7 1074.0,834.9 1096.0,826.8 1118.0,818.4 1140.0,809.6 1162.0,800.4 1184.0,790.9 1206.0,781.0 1228.0,770.7 1250.0,760.1 1272.0,749.2 1294.0,737.8 1316.0,726.1 1338.0,714.1 1360.0,701.7" fill="none" stroke="#009E73" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1356.0" y="691.6860795454545" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1e3a3f" text-anchor="end">Høy</text>
+<polyline points="1030.0,850.0 1052.0,846.1 1074.0,842.0 1096.0,837.7 1118.0,833.2 1140.0,828.5 1162.0,823.6 1184.0,818.5 1206.0,813.2 1228.0,807.7 1250.0,802.1 1272.0,796.2 1294.0,790.2 1316.0,784.0 1338.0,777.5 1360.0,770.9" fill="none" stroke="#0072B2" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1356.0" y="760.9204545454545" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1e3a3f" text-anchor="end">Middels</text>
+<polyline points="1030.0,850.0 1052.0,849.3 1074.0,848.4 1096.0,847.6 1118.0,846.7 1140.0,845.7 1162.0,844.8 1184.0,843.7 1206.0,842.7 1228.0,841.6 1250.0,840.5 1272.0,839.3 1294.0,838.1 1316.0,836.8 1338.0,835.5 1360.0,834.2" fill="none" stroke="#E69F00" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1356.0" y="824.2204545454546" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#1e3a3f" text-anchor="end">Lav</text>
+<text x="810.0" y="916" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="middle">2015</text>
+<text x="1030.0" y="916" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="middle">2025</text>
+<text x="1360.0" y="916" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="middle">2040</text>
+<text x="814" y="679" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="start">Folkemengde, millioner</text>
+<text x="760" y="958" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#1e3a3f" text-anchor="start">Brukes når usikkerheten ligger i forutsetningene, ikke i målingen.</text>
+<circle cx="716" cy="186" r="17" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="716" y="192" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<circle cx="1396" cy="186" r="17" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1396" y="192" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<circle cx="716" cy="599" r="17" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="716" y="605" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<rect x="1440" y="180" width="420" height="806" rx="6" fill="#eff8fa" stroke="none" stroke-width="1"/>
+<text x="1468" y="230" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#274246" text-anchor="start">Gode regler</text>
+<circle cx="1485" cy="273" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="279" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="1514" y="280" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Vis spennet, ikke bare punktet</text>
+<text x="1514" y="308" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Et tall uten usikkerhet ser</text>
+<text x="1514" y="332" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">sikrere ut enn det er.</text>
+<circle cx="1485" cy="375" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="381" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="1514" y="382" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Svakere enn hovedlinjen</text>
+<text x="1514" y="410" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Bånd og marginer i lysere</text>
+<text x="1514" y="434" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">toner, så budskapet fortsatt</text>
+<text x="1514" y="458" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">står tydelig.</text>
+<circle cx="1485" cy="501" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="507" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1514" y="508" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Forklar med ord</text>
+<text x="1514" y="536" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">«Med 80 prosent sannsynlighet</text>
+<text x="1514" y="560" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">ligger tallet mellom …» er</text>
+<text x="1514" y="584" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">lettere enn «80 % KI».</text>
+<text x="60" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Fiktive tall. Panelene illustrerer formene, ikke faktisk statistikk.</text>
+<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="end">Oktober 2026 · Utkast</text>
+</svg>

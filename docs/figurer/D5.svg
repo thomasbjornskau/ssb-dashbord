@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<text x="60" y="92" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#274246" text-anchor="start">Beslutningspunktene</text>
+<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">Fem steder der noen må si ja før arbeidet går videre</text>
+<line x1="60" y1="160" x2="1860" y2="160" stroke="#cdd3d4" stroke-width="2"/>
+<rect x="1740.0" y="62" width="120.0" height="40" rx="20" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="1800.0" y="89" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#274246" text-anchor="middle">Oversikt</text>
+<rect x="62" y="454" width="146.0" height="32" rx="6" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="74" y="476" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#274246" text-anchor="start">Avklar</text>
+<rect x="212.0" y="454" width="256.0" height="32" rx="6" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="246.0" y="476" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#274246" text-anchor="start">Skisser</text>
+<rect x="472.0" y="454" width="516.0" height="32" rx="6" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="506.0" y="476" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#274246" text-anchor="start">Prototype og test</text>
+<rect x="992.0" y="454" width="386.0" height="32" rx="6" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="1026.0" y="476" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#274246" text-anchor="start">Lanser og lær</text>
+<polygon points="1400.0,470.0 1383.8,477.8 1383.8,462.2" fill="#274246"/>
+<polygon points="210.0,440.0 240.0,470.0 210.0,500.0 180.0,470.0" fill="#7d5fea"/>
+<text x="210.0" y="477" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="210.0" y="236" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#274246" text-anchor="middle">Avklaringen</text>
+<rect x="120.0" y="256" width="180" height="30" rx="15" fill="#f1f1fe" stroke="#c3baff" stroke-width="1.5"/>
+<text x="210.0" y="277" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4b2fb0" text-anchor="middle">Eieren</text>
+<text x="210.0" y="330" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="middle">Er brukeroppgaven klar, og er</text>
+<text x="210.0" y="352" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="middle">dashbord riktig form?</text>
+<line x1="210.0" y1="502" x2="210.0" y2="548" stroke="#b9c5c6" stroke-width="2"/>
+<rect x="100.0" y="550" width="220.0" height="62" rx="28" fill="#ffffff" stroke="#7d5fea" stroke-width="2"/>
+<text x="210.0" y="578" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="middle">Ja</text>
+<text x="210.0" y="600" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="middle">videre</text>
+<line x1="210.0" y1="612" x2="210.0" y2="648" stroke="#b9c5c6" stroke-width="2"/>
+<rect x="100.0" y="650" width="220.0" height="62" rx="28" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="2"/>
+<text x="210.0" y="678" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#274246" text-anchor="middle">Nei</text>
+<text x="210.0" y="700" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="middle">ikke dashbord</text>
+<polygon points="470.0,440.0 500.0,470.0 470.0,500.0 440.0,470.0" fill="#7d5fea"/>
+<text x="470.0" y="477" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="470.0" y="236" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#274246" text-anchor="middle">Skissen</text>
+<rect x="380.0" y="256" width="180" height="30" rx="15" fill="#f1f1fe" stroke="#c3baff" stroke-width="1.5"/>
+<text x="470.0" y="277" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4b2fb0" text-anchor="middle">Eieren</text>
+<text x="470.0" y="330" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="middle">Hvilken variant, og hva er</text>
+<text x="470.0" y="352" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="middle">standardvisningen?</text>
+<line x1="470.0" y1="502" x2="470.0" y2="548" stroke="#b9c5c6" stroke-width="2"/>
+<rect x="360.0" y="550" width="220.0" height="62" rx="28" fill="#ffffff" stroke="#7d5fea" stroke-width="2"/>
+<text x="470.0" y="578" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="middle">Én valgt</text>
+<text x="470.0" y="600" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="middle">videre</text>
+<polygon points="730.0,440.0 760.0,470.0 730.0,500.0 700.0,470.0" fill="#7d5fea"/>
+<text x="730.0" y="477" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="730.0" y="236" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#274246" text-anchor="middle">Fagkontrollen</text>
+<rect x="640.0" y="256" width="180" height="30" rx="15" fill="#f1f1fe" stroke="#c3baff" stroke-width="1.5"/>
+<text x="730.0" y="277" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4b2fb0" text-anchor="middle">Fagmiljøet</text>
+<text x="730.0" y="330" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="middle">Er tallene, definisjonene og</text>
+<text x="730.0" y="352" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="middle">tolkningen riktige?</text>
+<line x1="730.0" y1="502" x2="730.0" y2="548" stroke="#b9c5c6" stroke-width="2"/>
+<rect x="620.0" y="550" width="220.0" height="62" rx="28" fill="#ffffff" stroke="#7d5fea" stroke-width="2"/>
+<text x="730.0" y="578" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="middle">Godkjent</text>
+<text x="730.0" y="600" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="middle">videre</text>
+<line x1="730.0" y1="612" x2="730.0" y2="648" stroke="#b9c5c6" stroke-width="2"/>
+<rect x="620.0" y="650" width="220.0" height="62" rx="28" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="2"/>
+<text x="730.0" y="678" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#274246" text-anchor="middle">Endringer</text>
+<text x="730.0" y="700" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="middle">ny runde</text>
+<polygon points="990.0,440.0 1020.0,470.0 990.0,500.0 960.0,470.0" fill="#7d5fea"/>
+<text x="990.0" y="477" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="990.0" y="236" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#274246" text-anchor="middle">Lanseringen</text>
+<rect x="900.0" y="256" width="180" height="30" rx="15" fill="#f1f1fe" stroke="#c3baff" stroke-width="1.5"/>
+<text x="990.0" y="277" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4b2fb0" text-anchor="middle">Eieren</text>
+<text x="990.0" y="330" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="middle">Ny runde, lansering eller</text>
+<text x="990.0" y="352" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="middle">stopp?</text>
+<line x1="990.0" y1="502" x2="990.0" y2="548" stroke="#b9c5c6" stroke-width="2"/>
+<rect x="880.0" y="550" width="220.0" height="62" rx="28" fill="#ffffff" stroke="#7d5fea" stroke-width="2"/>
+<text x="990.0" y="578" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="middle">Lanser</text>
+<text x="990.0" y="600" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="middle">i drift</text>
+<line x1="990.0" y1="612" x2="990.0" y2="648" stroke="#b9c5c6" stroke-width="2"/>
+<rect x="880.0" y="650" width="220.0" height="62" rx="28" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="2"/>
+<text x="990.0" y="678" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#274246" text-anchor="middle">Ny runde</text>
+<text x="990.0" y="700" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="middle">trinn 3</text>
+<line x1="990.0" y1="712" x2="990.0" y2="748" stroke="#b9c5c6" stroke-width="2"/>
+<rect x="880.0" y="750" width="220.0" height="62" rx="28" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="2"/>
+<text x="990.0" y="778" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#274246" text-anchor="middle">Stopp</text>
+<text x="990.0" y="800" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="middle">godt resultat</text>
+<polygon points="1250.0,440.0 1280.0,470.0 1250.0,500.0 1220.0,470.0" fill="#7d5fea"/>
+<text x="1250.0" y="477" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="1250.0" y="236" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#274246" text-anchor="middle">Gjennomgangen</text>
+<rect x="1160.0" y="256" width="180" height="30" rx="15" fill="#f1f1fe" stroke="#c3baff" stroke-width="1.5"/>
+<text x="1250.0" y="277" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4b2fb0" text-anchor="middle">Eieren, hvert år</text>
+<text x="1250.0" y="330" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="middle">Brukes det, er det riktig, finnes</text>
+<text x="1250.0" y="352" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="middle">det noe bedre?</text>
+<line x1="1250.0" y1="502" x2="1250.0" y2="548" stroke="#b9c5c6" stroke-width="2"/>
+<rect x="1140.0" y="550" width="220.0" height="62" rx="28" fill="#ffffff" stroke="#7d5fea" stroke-width="2"/>
+<text x="1250.0" y="578" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="middle">Fortsett</text>
+<line x1="1250.0" y1="612" x2="1250.0" y2="648" stroke="#b9c5c6" stroke-width="2"/>
+<rect x="1140.0" y="650" width="220.0" height="62" rx="28" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="2"/>
+<text x="1250.0" y="678" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#274246" text-anchor="middle">Forbedre</text>
+<text x="1250.0" y="700" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="middle">trinn 3</text>
+<line x1="1250.0" y1="712" x2="1250.0" y2="748" stroke="#b9c5c6" stroke-width="2"/>
+<rect x="1140.0" y="750" width="220.0" height="62" rx="28" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="2"/>
+<text x="1250.0" y="778" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#274246" text-anchor="middle">Avvikle</text>
+<text x="1250.0" y="800" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="middle">ryddig</text>
+<circle cx="300.0" cy="256" r="17" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="300.0" y="262" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<circle cx="820.0" cy="256" r="17" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="820.0" y="262" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<circle cx="1100.0" cy="750" r="17" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1100.0" y="756" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<rect x="1440" y="180" width="420" height="806" rx="6" fill="#eff8fa" stroke="none" stroke-width="1"/>
+<text x="1468" y="230" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#274246" text-anchor="start">Slik leses figuren</text>
+<circle cx="1485" cy="273" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="279" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="1514" y="280" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Eieren bestemmer</text>
+<text x="1514" y="308" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Fire av fem beslutninger. Uten</text>
+<text x="1514" y="332" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">eier stopper arbeidet.</text>
+<circle cx="1485" cy="375" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="381" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="1514" y="382" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Fagmiljøet har sin egen port</text>
+<text x="1514" y="410" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Faglig kontroll er en beslutning,</text>
+<text x="1514" y="434" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">ikke en formalitet.</text>
+<circle cx="1485" cy="477" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="483" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1514" y="484" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Nei er et gyldig svar</text>
+<text x="1514" y="512" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Stopp og avvikling er planlagte</text>
+<text x="1514" y="536" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">utfall, ikke nederlag.</text>
+<rect x="60" y="1030" width="30" height="20" rx="3" fill="#7d5fea" stroke="#7d5fea" stroke-width="1.5"/>
+<text x="100" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Beslutning</text>
+<rect x="212.8515625" y="1030" width="30" height="20" rx="3" fill="#f1f1fe" stroke="#c3baff" stroke-width="1.5"/>
+<text x="252.8515625" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Hvem bestemmer</text>
+<rect x="420.828125" y="1030" width="30" height="20" rx="3" fill="#ffffff" stroke="#7d5fea" stroke-width="1.5"/>
+<text x="460.828125" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Hovedutfall</text>
+<rect x="580.8828125" y="1030" width="30" height="20" rx="3" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="620.8828125" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Andre utfall</text>
+<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="end">November 2026 · Utkast · Veileder D · Bygger på C2 og C4</text>
+</svg>

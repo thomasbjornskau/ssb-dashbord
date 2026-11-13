@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<text x="60" y="92" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#274246" text-anchor="start">Prototypesløyfen</text>
+<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">Raskt fram til noe synlig, med KI som utkastmaskin og mennesker som bestemmer</text>
+<line x1="60" y1="160" x2="1860" y2="160" stroke="#cdd3d4" stroke-width="2"/>
+<rect x="1740.0" y="62" width="120.0" height="40" rx="20" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="1800.0" y="89" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#274246" text-anchor="middle">Oversikt</text>
+<rect x="60" y="186" width="1340" height="164" rx="6" fill="#f1f1fe" stroke="#c3baff" stroke-width="1.2"/>
+<rect x="60" y="186" width="160" height="164" rx="6" fill="#f1f1fe" stroke="#c3baff" stroke-width="1.2"/>
+<text x="78" y="266.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#4b2fb0" text-anchor="start">Mennesker</text>
+<text x="78" y="290.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#4b2fb0" text-anchor="start">bestemmer</text>
+<rect x="60" y="366" width="1340" height="334" rx="6" fill="#ffffff" stroke="#c4dddb" stroke-width="1.2"/>
+<rect x="60" y="366" width="160" height="334" rx="6" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.2"/>
+<text x="78" y="531.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#274246" text-anchor="start">Trinn</text>
+<rect x="60" y="736" width="1340" height="250" rx="6" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.2"/>
+<rect x="60" y="736" width="160" height="250" rx="6" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.2"/>
+<text x="78" y="859.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#5e787a" text-anchor="start">KI-assistent</text>
+<text x="78" y="883.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">lager utkast</text>
+<rect x="674" y="380" width="496" height="260" rx="12" fill="#f6fbfc" stroke="#c4dddb" stroke-width="1.5"/>
+<rect x="254" y="392" width="172" height="160" rx="8" fill="#eff8fa" stroke="#c4dddb" stroke-width="2"/>
+<circle cx="278" cy="420" r="15" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="278" y="426" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="302" y="427" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#274246" text-anchor="start">Avklar</text>
+<text x="270" y="462.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#1e3a3f" text-anchor="start">Fem spørsmål fra</text>
+<text x="270" y="481.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#1e3a3f" text-anchor="start">veileder A</text>
+<rect x="270" y="512" width="64.62451171875" height="24" rx="12" fill="#ffffff" stroke="#c4dddb" stroke-width="1.2"/>
+<text x="302.312255859375" y="529" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#274246" text-anchor="middle">En dag</text>
+<rect x="470" y="392" width="172" height="160" rx="8" fill="#eff8fa" stroke="#c4dddb" stroke-width="2"/>
+<circle cx="494" cy="420" r="15" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="494" y="426" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="518" y="427" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#274246" text-anchor="start">Skisser</text>
+<text x="486" y="462.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#1e3a3f" text-anchor="start">To til tre varianter</text>
+<text x="486" y="481.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#1e3a3f" text-anchor="start">av flaten</text>
+<rect x="486" y="512" width="96.1787109375" height="24" rx="12" fill="#ffffff" stroke="#c4dddb" stroke-width="1.2"/>
+<text x="534.08935546875" y="529" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#274246" text-anchor="middle">Noen timer</text>
+<rect x="686" y="392" width="214" height="160" rx="8" fill="#eff8fa" stroke="#c4dddb" stroke-width="2"/>
+<circle cx="710" cy="420" r="15" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="710" y="426" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="734" y="427" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#274246" text-anchor="start">Lag prototype</text>
+<text x="702" y="462.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#1e3a3f" text-anchor="start">En versjon brukerne kan</text>
+<text x="702" y="481.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#1e3a3f" text-anchor="start">klikke i</text>
+<rect x="702" y="512" width="105.41455078125" height="24" rx="12" fill="#ffffff" stroke="#c4dddb" stroke-width="1.2"/>
+<text x="754.707275390625" y="529" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#274246" text-anchor="middle">En til to uker</text>
+<rect x="944" y="392" width="214" height="160" rx="8" fill="#eff8fa" stroke="#c4dddb" stroke-width="2"/>
+<circle cx="968" cy="420" r="15" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="968" y="426" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="992" y="427" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#274246" text-anchor="start">Test</text>
+<text x="960" y="462.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#1e3a3f" text-anchor="start">Tre til fem brukere og</text>
+<text x="960" y="481.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#1e3a3f" text-anchor="start">faglig kontroll</text>
+<rect x="960" y="512" width="97.22607421875" height="24" rx="12" fill="#ffffff" stroke="#c4dddb" stroke-width="1.2"/>
+<text x="1008.613037109375" y="529" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#274246" text-anchor="middle">Noen dager</text>
+<rect x="1202" y="392" width="182" height="160" rx="8" fill="#eff8fa" stroke="#c4dddb" stroke-width="2"/>
+<circle cx="1226" cy="420" r="15" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1226" y="426" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="1250" y="427" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#274246" text-anchor="start">Lanser og lær</text>
+<text x="1218" y="462.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#1e3a3f" text-anchor="start">Liten skala, følg med</text>
+<text x="1218" y="481.5" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#1e3a3f" text-anchor="start">på bruken</text>
+<rect x="1218" y="512" width="77.75146484375" height="24" rx="12" fill="#ffffff" stroke="#c4dddb" stroke-width="1.2"/>
+<text x="1256.875732421875" y="529" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#274246" text-anchor="middle">Løpende</text>
+<line x1="430" y1="444" x2="458.0" y2="444.0" stroke="#274246" stroke-width="3"/>
+<polygon points="466.0,444.0 456.1,448.8 456.1,439.2" fill="#274246"/>
+<line x1="646" y1="444" x2="674.0" y2="444.0" stroke="#274246" stroke-width="3"/>
+<polygon points="682.0,444.0 672.1,448.8 672.1,439.2" fill="#274246"/>
+<line x1="1162" y1="444" x2="1190.0" y2="444.0" stroke="#274246" stroke-width="3"/>
+<polygon points="1198.0,444.0 1188.1,448.8 1188.1,439.2" fill="#274246"/>
+<line x1="904" y1="444" x2="932.0" y2="444.0" stroke="#274246" stroke-width="3"/>
+<polygon points="940.0,444.0 930.1,448.8 930.1,439.2" fill="#274246"/>
+<path d="M1051.0,556 V584 Q1051.0,598 1037.0,598 H807.0 Q793.0,598 793.0,584 V568" fill="none" stroke="#274246" stroke-width="3"/>
+<polygon points="793.0,558.0 798.2,568.8 787.8,568.8" fill="#274246"/>
+<text x="922.0" y="626" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#274246" text-anchor="middle">Gjentas til eieren er fornøyd</text>
+<rect x="1208" y="582" width="170" height="50" rx="6" fill="#f3f5f5" stroke="#b9c5c6" stroke-width="1.5" stroke-dasharray="6,4"/>
+<text x="1293.0" y="603" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#5e787a" text-anchor="middle">Stopp</text>
+<text x="1293.0" y="622" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="middle">også et godt resultat</text>
+<path d="M1160,522 C1188,522 1182,607 1198,607" fill="none" stroke="#b9c5c6" stroke-width="2.5" stroke-dasharray="6,4"/>
+<polygon points="1207.0,607.0 1196.2,612.2 1196.2,601.8" fill="#b9c5c6"/>
+<rect x="702" y="500" width="182" height="0.1" rx="0" fill="none" stroke="none" stroke-width="1"/>
+<rect x="254" y="198" width="172" height="136" rx="8" fill="#ffffff" stroke="#c3baff" stroke-width="1.5"/>
+<g transform="translate(315.00,208.00) scale(0.6250)"><path fill="#ffffff" d="M20.12 44.22C16.8 44.22 14.1 46.92 14.1 50.24C14.1 53.56 16.8 56.26 20.12 56.26C23.45 56.26 26.15 53.56 26.15 50.24C26.15 46.92 23.45 44.22 20.12 44.22"/><path fill="#ffffff" d="M59.87 44.22C56.55 44.22 53.85 46.92 53.85 50.24C53.85 53.56 56.55 56.26 59.87 56.26C63.2 56.26 65.9 53.56 65.9 50.24C65.9 46.92 63.2 44.22 59.87 44.22"/><path fill="#ffffff" d="M40.6 6.88C37.28 6.88 34.58 9.58 34.58 12.9C34.58 16.22 37.28 18.92 40.6 18.92C43.92 18.92 46.63 16.22 46.63 12.9C46.63 9.58 43.92 6.88 40.6 6.88"/><path fill="#4b2fb0" d="M26.15 50.24C26.15 53.56 23.45 56.26 20.12 56.26C16.8 56.26 14.1 53.56 14.1 50.24C14.1 46.92 16.8 44.22 20.12 44.22C23.45 44.22 26.15 46.92 26.15 50.24M12.9 50.24C12.9 54.22 16.14 57.47 20.12 57.47C24.11 57.47 27.35 54.22 27.35 50.24C27.35 46.25 24.11 43.01 20.12 43.01C16.14 43.01 12.9 46.25 12.9 50.24"/><path fill="#4b2fb0" d="M27.35 58.67L20.13 64.69L12.9 58.67C12.9 58.67 5.67 59.23 5.67 63.02L5.67 74.33L10.49 74.33L10.49 70.11C10.49 69.78 10.76 69.51 11.09 69.51C11.42 69.51 11.69 69.78 11.69 70.11L11.69 74.33L28.56 74.33L28.56 70.11C28.56 69.78 28.83 69.51 29.16 69.51C29.49 69.51 29.76 69.78 29.76 70.11L29.76 74.33L34.58 74.33L34.58 63.02C34.58 59.23 27.35 58.67 27.35 58.67"/><path fill="#4b2fb0" d="M65.9 50.24C65.9 53.56 63.2 56.26 59.87 56.26C56.55 56.26 53.85 53.56 53.85 50.24C53.85 46.92 56.55 44.22 59.87 44.22C63.2 44.22 65.9 46.92 65.9 50.24M52.65 50.24C52.65 54.22 55.89 57.47 59.87 57.47C63.86 57.47 67.1 54.22 67.1 50.24C67.1 46.25 63.86 43.01 59.87 43.01C55.89 43.01 52.65 46.25 52.65 50.24"/><path fill="#4b2fb0" d="M67.1 58.67L59.88 64.69L52.65 58.67C52.65 58.67 45.42 59.23 45.42 63.02L45.42 74.33L50.24 74.33L50.24 70.11C50.24 69.78 50.51 69.51 50.84 69.51C51.17 69.51 51.44 69.78 51.44 70.11L51.44 74.33L68.31 74.33L68.31 70.11C68.31 69.78 68.58 69.51 68.91 69.51C69.24 69.51 69.51 69.78 69.51 70.11L69.51 74.33L74.33 74.33L74.33 63.02C74.33 59.23 67.1 58.67 67.1 58.67"/><path fill="#4b2fb0" d="M40.6 6.88C43.92 6.88 46.63 9.58 46.63 12.9C46.63 16.22 43.92 18.92 40.6 18.92C37.28 18.92 34.58 16.22 34.58 12.9C34.58 9.58 37.28 6.88 40.6 6.88M40.6 20.13C44.59 20.13 47.83 16.88 47.83 12.9C47.83 8.91 44.59 5.67 40.6 5.67C36.62 5.67 33.38 8.91 33.38 12.9C33.38 16.88 36.62 20.13 40.6 20.13"/><path fill="#4b2fb0" d="M30.97 32.77C30.97 32.44 31.23 32.17 31.57 32.17C31.9 32.17 32.17 32.44 32.17 32.77L32.17 36.99L30.97 36.99L30.97 32.77M49.03 32.77C49.03 32.44 49.3 32.17 49.64 32.17C49.97 32.17 50.24 32.44 50.24 32.77L50.24 36.99L49.03 36.99L49.03 32.77M6.27 38.19L73.73 38.19C74.06 38.19 74.33 37.92 74.33 37.59C74.33 37.26 74.06 36.99 73.73 36.99L55.06 36.99L55.06 25.68C55.06 21.89 47.83 21.33 47.83 21.33L40.6 27.35L33.37 21.33C33.37 21.33 26.15 21.89 26.15 25.68L26.15 36.99L6.27 36.99C5.94 36.99 5.67 37.26 5.67 37.59C5.67 37.92 5.94 38.19 6.27 38.19"/></g>
+<text x="340.0" y="282" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4b2fb0" text-anchor="middle">Eier og utvikler</text>
+<text x="340.0" y="304.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#4b2fb0" text-anchor="middle">svarer sammen</text>
+<line x1="340.0" y1="338" x2="340.0" y2="379.0" stroke="#7d5fea" stroke-width="2.5"/>
+<polygon points="340.0,387.0 335.2,377.1 344.8,377.1" fill="#7d5fea"/>
+<rect x="470" y="198" width="172" height="136" rx="8" fill="#ffffff" stroke="#c3baff" stroke-width="1.5"/>
+<g transform="translate(531.00,208.00) scale(0.6250)"><path fill="#ffffff" d="M20.12 44.22C16.8 44.22 14.1 46.92 14.1 50.24C14.1 53.56 16.8 56.26 20.12 56.26C23.45 56.26 26.15 53.56 26.15 50.24C26.15 46.92 23.45 44.22 20.12 44.22"/><path fill="#ffffff" d="M59.87 44.22C56.55 44.22 53.85 46.92 53.85 50.24C53.85 53.56 56.55 56.26 59.87 56.26C63.2 56.26 65.9 53.56 65.9 50.24C65.9 46.92 63.2 44.22 59.87 44.22"/><path fill="#ffffff" d="M40.6 6.88C37.28 6.88 34.58 9.58 34.58 12.9C34.58 16.22 37.28 18.92 40.6 18.92C43.92 18.92 46.63 16.22 46.63 12.9C46.63 9.58 43.92 6.88 40.6 6.88"/><path fill="#4b2fb0" d="M26.15 50.24C26.15 53.56 23.45 56.26 20.12 56.26C16.8 56.26 14.1 53.56 14.1 50.24C14.1 46.92 16.8 44.22 20.12 44.22C23.45 44.22 26.15 46.92 26.15 50.24M12.9 50.24C12.9 54.22 16.14 57.47 20.12 57.47C24.11 57.47 27.35 54.22 27.35 50.24C27.35 46.25 24.11 43.01 20.12 43.01C16.14 43.01 12.9 46.25 12.9 50.24"/><path fill="#4b2fb0" d="M27.35 58.67L20.13 64.69L12.9 58.67C12.9 58.67 5.67 59.23 5.67 63.02L5.67 74.33L10.49 74.33L10.49 70.11C10.49 69.78 10.76 69.51 11.09 69.51C11.42 69.51 11.69 69.78 11.69 70.11L11.69 74.33L28.56 74.33L28.56 70.11C28.56 69.78 28.83 69.51 29.16 69.51C29.49 69.51 29.76 69.78 29.76 70.11L29.76 74.33L34.58 74.33L34.58 63.02C34.58 59.23 27.35 58.67 27.35 58.67"/><path fill="#4b2fb0" d="M65.9 50.24C65.9 53.56 63.2 56.26 59.87 56.26C56.55 56.26 53.85 53.56 53.85 50.24C53.85 46.92 56.55 44.22 59.87 44.22C63.2 44.22 65.9 46.92 65.9 50.24M52.65 50.24C52.65 54.22 55.89 57.47 59.87 57.47C63.86 57.47 67.1 54.22 67.1 50.24C67.1 46.25 63.86 43.01 59.87 43.01C55.89 43.01 52.65 46.25 52.65 50.24"/><path fill="#4b2fb0" d="M67.1 58.67L59.88 64.69L52.65 58.67C52.65 58.67 45.42 59.23 45.42 63.02L45.42 74.33L50.24 74.33L50.24 70.11C50.24 69.78 50.51 69.51 50.84 69.51C51.17 69.51 51.44 69.78 51.44 70.11L51.44 74.33L68.31 74.33L68.31 70.11C68.31 69.78 68.58 69.51 68.91 69.51C69.24 69.51 69.51 69.78 69.51 70.11L69.51 74.33L74.33 74.33L74.33 63.02C74.33 59.23 67.1 58.67 67.1 58.67"/><path fill="#4b2fb0" d="M40.6 6.88C43.92 6.88 46.63 9.58 46.63 12.9C46.63 16.22 43.92 18.92 40.6 18.92C37.28 18.92 34.58 16.22 34.58 12.9C34.58 9.58 37.28 6.88 40.6 6.88M40.6 20.13C44.59 20.13 47.83 16.88 47.83 12.9C47.83 8.91 44.59 5.67 40.6 5.67C36.62 5.67 33.38 8.91 33.38 12.9C33.38 16.88 36.62 20.13 40.6 20.13"/><path fill="#4b2fb0" d="M30.97 32.77C30.97 32.44 31.23 32.17 31.57 32.17C31.9 32.17 32.17 32.44 32.17 32.77L32.17 36.99L30.97 36.99L30.97 32.77M49.03 32.77C49.03 32.44 49.3 32.17 49.64 32.17C49.97 32.17 50.24 32.44 50.24 32.77L50.24 36.99L49.03 36.99L49.03 32.77M6.27 38.19L73.73 38.19C74.06 38.19 74.33 37.92 74.33 37.59C74.33 37.26 74.06 36.99 73.73 36.99L55.06 36.99L55.06 25.68C55.06 21.89 47.83 21.33 47.83 21.33L40.6 27.35L33.37 21.33C33.37 21.33 26.15 21.89 26.15 25.68L26.15 36.99L6.27 36.99C5.94 36.99 5.67 37.26 5.67 37.59C5.67 37.92 5.94 38.19 6.27 38.19"/></g>
+<text x="556.0" y="282" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4b2fb0" text-anchor="middle">Eieren</text>
+<text x="556.0" y="304.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#4b2fb0" text-anchor="middle">velger én skisse</text>
+<line x1="556.0" y1="338" x2="556.0" y2="379.0" stroke="#7d5fea" stroke-width="2.5"/>
+<polygon points="556.0,387.0 551.2,377.1 560.8,377.1" fill="#7d5fea"/>
+<rect x="686" y="198" width="214" height="136" rx="8" fill="#ffffff" stroke="#c3baff" stroke-width="1.5"/>
+<g transform="translate(768.00,208.00) scale(0.6250)"><path fill="#ffffff" d="M39.4 6.88C33.75 6.88 29.16 11.47 29.16 17.11C29.16 22.76 33.75 27.35 39.4 27.35C45.04 27.35 49.64 22.76 49.64 17.11C49.64 11.47 45.04 6.88 39.4 6.88"/><path fill="#4b2fb0" d="M26.67 51.44L23.23 74.33L56.77 74.33L53.33 51.44L26.67 51.44"/><path fill="#4b2fb0" d="M61.68 36.99C60.41 32.29 51.33 29.84 50.84 29.76L40 41.81L27.95 29.76C27.46 29.84 19.37 31.89 18.32 36.99L14.7 64.68L21.93 74.33L22.02 74.33L25.63 50.24L54.37 50.24L57.98 74.33L58.07 74.33L65.3 64.69L61.68 36.99"/><path fill="#4b2fb0" d="M39.4 6.88C45.04 6.88 49.64 11.47 49.64 17.11C49.64 22.76 45.04 27.35 39.4 27.35C33.75 27.35 29.16 22.76 29.16 17.11C29.16 11.47 33.75 6.88 39.4 6.88M39.4 28.56C45.71 28.56 50.84 23.42 50.84 17.11C50.84 10.8 45.71 5.67 39.4 5.67C33.09 5.67 27.95 10.8 27.95 17.11C27.95 23.42 33.09 28.56 39.4 28.56"/></g>
+<text x="793.0" y="282" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4b2fb0" text-anchor="middle">Utvikleren</text>
+<text x="793.0" y="304.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#4b2fb0" text-anchor="middle">sjekker hvert tall mot kilden</text>
+<line x1="793.0" y1="338" x2="793.0" y2="379.0" stroke="#7d5fea" stroke-width="2.5"/>
+<polygon points="793.0,387.0 788.2,377.1 797.8,377.1" fill="#7d5fea"/>
+<rect x="944" y="198" width="214" height="136" rx="8" fill="#ffffff" stroke="#c3baff" stroke-width="1.5"/>
+<g transform="translate(1026.00,208.00) scale(0.6250)"><path fill="#ffffff" d="M24.94 6.88C20.29 6.88 16.51 10.66 16.51 15.31C16.51 19.96 20.29 23.74 24.94 23.74C29.59 23.74 33.38 19.96 33.38 15.31C33.38 10.66 29.59 6.88 24.94 6.88"/><path fill="#ffffff" d="M55.06 20.13C50.41 20.13 46.62 23.91 46.62 28.56C46.62 33.21 50.41 36.99 55.06 36.99C59.71 36.99 63.49 33.21 63.49 28.56C63.49 23.91 59.71 20.13 55.06 20.13"/><path fill="#ffffff" d="M34.19 27.38L24.94 36.24L15.69 27.38C13 27.67 6.87 28.99 6.87 32.16L6.87 52.93L12.9 59.25L12.9 55.06L12.9 53.85L12.9 40C12.9 39.67 13.17 39.4 13.5 39.4C13.83 39.4 14.1 39.67 14.1 40L14.1 53.85L35.78 53.85L35.78 45.51C35.78 42.42 39.79 40.84 42.93 40.07L43.01 40.05L43.01 32.16C43.01 28.99 36.89 27.67 34.19 27.38"/><path fill="#ffffff" d="M14.1 55.06H35.78V59.88H14.1Z"/><path fill="#4b2fb0" d="M24.94 6.88C29.59 6.88 33.38 10.66 33.38 15.31C33.38 19.96 29.59 23.74 24.94 23.74C20.29 23.74 16.51 19.96 16.51 15.31C16.51 10.66 20.29 6.88 24.94 6.88M24.94 24.94C30.26 24.94 34.58 20.62 34.58 15.31C34.58 9.99 30.26 5.67 24.94 5.67C19.63 5.67 15.31 9.99 15.31 15.31C15.31 20.62 19.63 24.94 24.94 24.94"/><path fill="#4b2fb0" d="M55.06 20.13C59.71 20.13 63.49 23.91 63.49 28.56C63.49 33.21 59.71 36.99 55.06 36.99C50.41 36.99 46.62 33.21 46.62 28.56C46.62 23.91 50.41 20.13 55.06 20.13M55.06 38.19C60.37 38.19 64.69 33.87 64.69 28.56C64.69 23.24 60.37 18.92 55.06 18.92C49.74 18.92 45.42 23.24 45.42 28.56C45.42 33.87 49.74 38.19 55.06 38.19"/><path fill="#4b2fb0" d="M44.22 69.51H65.9V74.33H44.22Z"/><path fill="#4b2fb0" d="M43.01 38.51L43.01 40.05C42.98 40.05 42.96 40.06 42.93 40.07C39.79 40.84 35.78 42.42 35.78 45.51L35.78 53.85L14.1 53.85L14.1 40C14.1 39.67 13.83 39.4 13.5 39.4C13.17 39.4 12.9 39.67 12.9 40L12.9 53.85L12.9 55.06L12.9 59.25L6.88 52.93L6.88 32.16C6.88 28.99 13 27.67 15.69 27.38L24.94 36.24L34.19 27.38C36.89 27.67 43.01 28.99 43.01 32.16L43.01 38.51M14.1 55.06H35.78V59.87H14.1ZM63.49 39.4L55.06 48.09L46.63 39.4C46.51 39.42 45.53 39.52 44.22 39.78L44.22 32.16C44.22 27.11 34.45 26.19 34.03 26.15L33.76 26.13L24.94 34.57L16.13 26.13L15.86 26.15C15.44 26.19 5.67 27.11 5.67 32.16L5.67 53.41L12.98 61.08L35.78 61.08L35.78 66.32L43.01 74.33L43.01 54.45C43.01 54.12 43.28 53.85 43.61 53.85C43.95 53.85 44.22 54.12 44.22 54.45L44.22 68.31L65.9 68.31L65.9 54.45C65.9 54.12 66.17 53.85 66.5 53.85C66.83 53.85 67.1 54.12 67.1 54.45L67.1 74.33L74.33 66.32L74.33 45.51C74.33 40.52 63.89 39.46 63.49 39.4"/></g>
+<text x="1051.0" y="282" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4b2fb0" text-anchor="middle">Brukere og fagmiljø</text>
+<text x="1051.0" y="304.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#4b2fb0" text-anchor="middle">tester og kontrollerer</text>
+<line x1="1051.0" y1="338" x2="1051.0" y2="379.0" stroke="#7d5fea" stroke-width="2.5"/>
+<polygon points="1051.0,387.0 1046.2,377.1 1055.8,377.1" fill="#7d5fea"/>
+<rect x="1202" y="198" width="182" height="136" rx="8" fill="#ffffff" stroke="#c3baff" stroke-width="1.5"/>
+<g transform="translate(1268.00,208.00) scale(0.6250)"><path fill="#ffffff" d="M20.12 44.22C16.8 44.22 14.1 46.92 14.1 50.24C14.1 53.56 16.8 56.26 20.12 56.26C23.45 56.26 26.15 53.56 26.15 50.24C26.15 46.92 23.45 44.22 20.12 44.22"/><path fill="#ffffff" d="M59.87 44.22C56.55 44.22 53.85 46.92 53.85 50.24C53.85 53.56 56.55 56.26 59.87 56.26C63.2 56.26 65.9 53.56 65.9 50.24C65.9 46.92 63.2 44.22 59.87 44.22"/><path fill="#ffffff" d="M40.6 6.88C37.28 6.88 34.58 9.58 34.58 12.9C34.58 16.22 37.28 18.92 40.6 18.92C43.92 18.92 46.63 16.22 46.63 12.9C46.63 9.58 43.92 6.88 40.6 6.88"/><path fill="#4b2fb0" d="M26.15 50.24C26.15 53.56 23.45 56.26 20.12 56.26C16.8 56.26 14.1 53.56 14.1 50.24C14.1 46.92 16.8 44.22 20.12 44.22C23.45 44.22 26.15 46.92 26.15 50.24M12.9 50.24C12.9 54.22 16.14 57.47 20.12 57.47C24.11 57.47 27.35 54.22 27.35 50.24C27.35 46.25 24.11 43.01 20.12 43.01C16.14 43.01 12.9 46.25 12.9 50.24"/><path fill="#4b2fb0" d="M27.35 58.67L20.13 64.69L12.9 58.67C12.9 58.67 5.67 59.23 5.67 63.02L5.67 74.33L10.49 74.33L10.49 70.11C10.49 69.78 10.76 69.51 11.09 69.51C11.42 69.51 11.69 69.78 11.69 70.11L11.69 74.33L28.56 74.33L28.56 70.11C28.56 69.78 28.83 69.51 29.16 69.51C29.49 69.51 29.76 69.78 29.76 70.11L29.76 74.33L34.58 74.33L34.58 63.02C34.58 59.23 27.35 58.67 27.35 58.67"/><path fill="#4b2fb0" d="M65.9 50.24C65.9 53.56 63.2 56.26 59.87 56.26C56.55 56.26 53.85 53.56 53.85 50.24C53.85 46.92 56.55 44.22 59.87 44.22C63.2 44.22 65.9 46.92 65.9 50.24M52.65 50.24C52.65 54.22 55.89 57.47 59.87 57.47C63.86 57.47 67.1 54.22 67.1 50.24C67.1 46.25 63.86 43.01 59.87 43.01C55.89 43.01 52.65 46.25 52.65 50.24"/><path fill="#4b2fb0" d="M67.1 58.67L59.88 64.69L52.65 58.67C52.65 58.67 45.42 59.23 45.42 63.02L45.42 74.33L50.24 74.33L50.24 70.11C50.24 69.78 50.51 69.51 50.84 69.51C51.17 69.51 51.44 69.78 51.44 70.11L51.44 74.33L68.31 74.33L68.31 70.11C68.31 69.78 68.58 69.51 68.91 69.51C69.24 69.51 69.51 69.78 69.51 70.11L69.51 74.33L74.33 74.33L74.33 63.02C74.33 59.23 67.1 58.67 67.1 58.67"/><path fill="#4b2fb0" d="M40.6 6.88C43.92 6.88 46.63 9.58 46.63 12.9C46.63 16.22 43.92 18.92 40.6 18.92C37.28 18.92 34.58 16.22 34.58 12.9C34.58 9.58 37.28 6.88 40.6 6.88M40.6 20.13C44.59 20.13 47.83 16.88 47.83 12.9C47.83 8.91 44.59 5.67 40.6 5.67C36.62 5.67 33.38 8.91 33.38 12.9C33.38 16.88 36.62 20.13 40.6 20.13"/><path fill="#4b2fb0" d="M30.97 32.77C30.97 32.44 31.23 32.17 31.57 32.17C31.9 32.17 32.17 32.44 32.17 32.77L32.17 36.99L30.97 36.99L30.97 32.77M49.03 32.77C49.03 32.44 49.3 32.17 49.64 32.17C49.97 32.17 50.24 32.44 50.24 32.77L50.24 36.99L49.03 36.99L49.03 32.77M6.27 38.19L73.73 38.19C74.06 38.19 74.33 37.92 74.33 37.59C74.33 37.26 74.06 36.99 73.73 36.99L55.06 36.99L55.06 25.68C55.06 21.89 47.83 21.33 47.83 21.33L40.6 27.35L33.37 21.33C33.37 21.33 26.15 21.89 26.15 25.68L26.15 36.99L6.27 36.99C5.94 36.99 5.67 37.26 5.67 37.59C5.67 37.92 5.94 38.19 6.27 38.19"/></g>
+<text x="1293.0" y="282" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#4b2fb0" text-anchor="middle">Eieren</text>
+<text x="1293.0" y="304.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#4b2fb0" text-anchor="middle">lanserer eller stopper</text>
+<line x1="1293.0" y1="338" x2="1293.0" y2="379.0" stroke="#7d5fea" stroke-width="2.5"/>
+<polygon points="1293.0,387.0 1288.2,377.1 1297.8,377.1" fill="#7d5fea"/>
+<rect x="470" y="800" width="172" height="104" rx="8" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="484" y="826" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#5e787a" text-anchor="start">UTKAST</text>
+<text x="484" y="852" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Varianter av flaten</text>
+<text x="484" y="872" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">ut fra brukeroppgaven</text>
+<line x1="556.0" y1="796" x2="556.0" y2="566.0" stroke="#b9c5c6" stroke-width="2.5"/>
+<polygon points="556.0,558.0 560.8,567.9 551.2,567.9" fill="#b9c5c6"/>
+<rect x="686" y="800" width="214" height="104" rx="8" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="700" y="826" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#5e787a" text-anchor="start">UTKAST</text>
+<text x="700" y="852" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Utkast til kode,</text>
+<text x="700" y="872" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">titler og hjelpetekster</text>
+<rect x="944" y="800" width="214" height="104" rx="8" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="958" y="826" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#5e787a" text-anchor="start">UTKAST</text>
+<text x="958" y="852" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Testplan og gjennomgang</text>
+<text x="958" y="872" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">mot sjekklisten i B</text>
+<line x1="720" y1="796" x2="720.0" y2="564.0" stroke="#b9c5c6" stroke-width="2.5"/>
+<polygon points="720.0,556.0 724.8,565.9 715.2,565.9" fill="#b9c5c6"/>
+<line x1="1124" y1="796" x2="1124.0" y2="564.0" stroke="#b9c5c6" stroke-width="2.5"/>
+<polygon points="1124.0,556.0 1128.8,565.9 1119.2,565.9" fill="#b9c5c6"/>
+<text x="340.0" y="858" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#b9c5c6" text-anchor="middle">Ingen KI-rolle</text>
+<text x="1293.0" y="858" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#b9c5c6" text-anchor="middle">Ingen KI-rolle</text>
+<line x1="236" y1="718" x2="1384" y2="718" stroke="#00824d" stroke-width="2" stroke-dasharray="8,5"/>
+<rect x="240" y="704" width="0" height="0" rx="0" fill="none" stroke="none" stroke-width="1"/>
+<rect x="1021.56640625" y="704" width="362.43359375" height="28" rx="14" fill="#ecfeed" stroke="#00824d" stroke-width="1.5"/>
+<text x="1202.783203125" y="723" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#00824d" text-anchor="middle">Bare publiserte eller syntetiske data i KI-verktøy</text>
+<text x="240" y="958" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="start">Reglene for KI står i kapittel 3. Arbeidet steg for steg står i veileder D.</text>
+<circle cx="642" cy="392" r="17" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="642" y="398" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<circle cx="794.0" cy="620" r="17" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="794.0" y="626" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<circle cx="1378" cy="582" r="17" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1378" y="588" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<circle cx="470" cy="800" r="17" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="470" y="806" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<circle cx="220" cy="194" r="17" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="220" y="200" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<rect x="1440" y="180" width="420" height="806" rx="6" fill="#eff8fa" stroke="none" stroke-width="1"/>
+<text x="1468" y="230" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#274246" text-anchor="start">Slik virker sløyfen</text>
+<circle cx="1485" cy="273" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="279" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="1514" y="280" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Noe synlig tidlig</text>
+<text x="1514" y="308" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Skisser etter noen timer, ikke</text>
+<text x="1514" y="332" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">kravspesifikasjon etter måneder.</text>
+<circle cx="1485" cy="375" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="381" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="1514" y="382" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Prototype og test i sløyfe</text>
+<text x="1514" y="410" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Ekte, publiserte data. Brukere</text>
+<text x="1514" y="434" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">tester, fagmiljøet kontrollerer.</text>
+<circle cx="1485" cy="477" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="483" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1514" y="484" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Stopp er lov</text>
+<text x="1514" y="512" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Billigere å stoppe etter to</text>
+<text x="1514" y="536" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">uker enn etter et halvt år.</text>
+<circle cx="1485" cy="579" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="585" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="1514" y="586" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">KI lager utkast</text>
+<text x="1514" y="614" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Varianter, kode og tekst går</text>
+<text x="1514" y="638" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">fortere, men alt er utkast.</text>
+<circle cx="1485" cy="681" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="687" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="1514" y="688" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Mennesker bestemmer</text>
+<text x="1514" y="716" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Visning, standardvisning og</text>
+<text x="1514" y="740" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">tolkning er faglige valg.</text>
+<rect x="60" y="1030" width="30" height="20" rx="3" fill="#f1f1fe" stroke="#c3baff" stroke-width="1.5"/>
+<text x="100" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Mennesker</text>
+<rect x="217.5390625" y="1030" width="30" height="20" rx="3" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="257.5390625" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Trinn</text>
+<rect x="330.5546875" y="1030" width="30" height="20" rx="3" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="370.5546875" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">KI-utkast</text>
+<line x1="470.109375" y1="1040" x2="492.109375" y2="1040" stroke="#7d5fea" stroke-width="3"/>
+<polygon points="490.1,1034.0 501.1,1040.0 490.1,1046.0" fill="#7d5fea"/>
+<text x="510.109375" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Bestemmer</text>
+<line x1="630.890625" y1="1040" x2="652.890625" y2="1040" stroke="#b9c5c6" stroke-width="3"/>
+<polygon points="650.9,1034.0 661.9,1040.0 650.9,1046.0" fill="#b9c5c6"/>
+<text x="670.890625" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Leverer utkast</text>
+<line x1="811.5625" y1="1040" x2="833.5625" y2="1040" stroke="#274246" stroke-width="3"/>
+<polygon points="831.6,1034.0 842.6,1040.0 831.6,1046.0" fill="#274246"/>
+<text x="851.5625" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Neste trinn</text>
+<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="end">November 2026 · Utkast · Veileder C, kapittel 3</text>
+</svg>

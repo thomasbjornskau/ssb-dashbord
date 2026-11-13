@@ -1,0 +1,338 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<text x="60" y="92" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#274246" text-anchor="start">To dashbord, bygd lag for lag</text>
+<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">Samme statistikk og samme steg, men svært ulike resultater</text>
+<line x1="60" y1="160" x2="1860" y2="160" stroke="#cdd3d4" stroke-width="2"/>
+<rect x="1740.0" y="62" width="120.0" height="40" rx="20" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="1800.0" y="89" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#274246" text-anchor="middle">Oversikt</text>
+<rect x="300" y="196" width="262" height="44" rx="6" fill="#274246" stroke="none" stroke-width="1"/>
+<text x="431.0" y="225" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">DATASETT</text>
+<line x1="564" y1="218" x2="572.0" y2="218.0" stroke="#274246" stroke-width="2.5"/>
+<polygon points="578.0,218.0 569.9,221.9 569.9,214.1" fill="#274246"/>
+<rect x="580" y="196" width="262" height="44" rx="6" fill="#274246" stroke="none" stroke-width="1"/>
+<text x="711.0" y="225" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">DIAGRAM</text>
+<line x1="844" y1="218" x2="852.0" y2="218.0" stroke="#274246" stroke-width="2.5"/>
+<polygon points="858.0,218.0 849.9,221.9 849.9,214.1" fill="#274246"/>
+<rect x="860" y="196" width="262" height="44" rx="6" fill="#274246" stroke="none" stroke-width="1"/>
+<text x="991.0" y="225" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">INTERAKSJON</text>
+<line x1="1124" y1="218" x2="1132.0" y2="218.0" stroke="#274246" stroke-width="2.5"/>
+<polygon points="1138.0,218.0 1129.9,221.9 1129.9,214.1" fill="#274246"/>
+<rect x="1140" y="196" width="262" height="44" rx="6" fill="#274246" stroke="none" stroke-width="1"/>
+<text x="1271.0" y="225" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">PRESENTASJON</text>
+<text x="60" y="302" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#5e787a" text-anchor="start">INTERNT</text>
+<text x="60" y="332" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#274246" text-anchor="start">Lønnsforskjeller</text>
+<text x="60" y="358" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Utforskende · statistikere</text>
+<rect x="300" y="262" width="262" height="340" rx="8" fill="#eff8fa" stroke="none" stroke-width="1"/>
+<rect x="580" y="262" width="262" height="340" rx="8" fill="#eff8fa" stroke="none" stroke-width="1"/>
+<rect x="860" y="262" width="262" height="340" rx="8" fill="#eff8fa" stroke="none" stroke-width="1"/>
+<rect x="1140" y="262" width="262" height="340" rx="8" fill="#eff8fa" stroke="none" stroke-width="1"/>
+<text x="60" y="666" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#5e787a" text-anchor="start">EKSTERNT</text>
+<text x="60" y="696" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#274246" text-anchor="start">Lønn i yrket ditt</text>
+<text x="60" y="722" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Kommunikasjon · publikum</text>
+<rect x="300" y="626" width="262" height="340" rx="8" fill="#eff8fa" stroke="none" stroke-width="1"/>
+<rect x="580" y="626" width="262" height="340" rx="8" fill="#eff8fa" stroke="none" stroke-width="1"/>
+<rect x="860" y="626" width="262" height="340" rx="8" fill="#eff8fa" stroke="none" stroke-width="1"/>
+<rect x="1140" y="626" width="262" height="340" rx="8" fill="#eff8fa" stroke="none" stroke-width="1"/>
+<text x="318" y="302" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#00824d" text-anchor="start">11421</text>
+<rect x="318" y="310" width="38" height="12" rx="1" fill="#b6e9b8" stroke="#00824d" stroke-width="1"/>
+<rect x="360" y="310" width="38" height="12" rx="1" fill="#b6e9b8" stroke="#00824d" stroke-width="1"/>
+<rect x="402" y="310" width="38" height="12" rx="1" fill="#b6e9b8" stroke="#00824d" stroke-width="1"/>
+<rect x="444" y="310" width="38" height="12" rx="1" fill="#b6e9b8" stroke="#00824d" stroke-width="1"/>
+<rect x="486" y="310" width="38" height="12" rx="1" fill="#b6e9b8" stroke="#00824d" stroke-width="1"/>
+<rect x="318" y="326" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="360" y="326" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="402" y="326" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="444" y="326" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="486" y="326" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="318" y="342" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="360" y="342" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="402" y="342" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="444" y="342" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="486" y="342" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="318" y="358" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="360" y="358" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="402" y="358" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="444" y="358" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="486" y="358" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="318" y="374" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="360" y="374" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="402" y="374" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="444" y="374" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="486" y="374" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="318" y="390" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="360" y="390" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="402" y="390" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="444" y="390" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="486" y="390" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<text x="318" y="452" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#00824d" text-anchor="start">11419</text>
+<rect x="318" y="460" width="38" height="12" rx="1" fill="#b6e9b8" stroke="#00824d" stroke-width="1"/>
+<rect x="360" y="460" width="38" height="12" rx="1" fill="#b6e9b8" stroke="#00824d" stroke-width="1"/>
+<rect x="402" y="460" width="38" height="12" rx="1" fill="#b6e9b8" stroke="#00824d" stroke-width="1"/>
+<rect x="444" y="460" width="38" height="12" rx="1" fill="#b6e9b8" stroke="#00824d" stroke-width="1"/>
+<rect x="486" y="460" width="38" height="12" rx="1" fill="#b6e9b8" stroke="#00824d" stroke-width="1"/>
+<rect x="318" y="476" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="360" y="476" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="402" y="476" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="444" y="476" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="486" y="476" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="318" y="492" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="360" y="492" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="402" y="492" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="444" y="492" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="486" y="492" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="318" y="508" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="360" y="508" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="402" y="508" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="444" y="508" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="486" y="508" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="318" y="524" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="360" y="524" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="402" y="524" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="444" y="524" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="486" y="524" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="318" y="540" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="360" y="540" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="402" y="540" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="444" y="540" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="486" y="540" width="38" height="12" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<text x="431.0" y="430" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#00824d" text-anchor="middle">koblet på næring, sektor, kjønn</text>
+<rect x="632" y="296" width="172.9" height="16" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="602" y="300" width="22" height="8" rx="2" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<rect x="632" y="322" width="156.52" height="16" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="602" y="326" width="22" height="8" rx="2" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<rect x="632" y="348" width="145.6" height="16" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="602" y="352" width="22" height="8" rx="2" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<rect x="632" y="374" width="131.04" height="16" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="602" y="378" width="22" height="8" rx="2" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<rect x="632" y="400" width="120.12" height="16" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="602" y="404" width="22" height="8" rx="2" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<rect x="632" y="426" width="105.55999999999999" height="16" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="602" y="430" width="22" height="8" rx="2" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<rect x="632" y="452" width="91.0" height="16" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="602" y="456" width="22" height="8" rx="2" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<rect x="632" y="478" width="76.44" height="16" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="602" y="482" width="22" height="8" rx="2" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<rect x="632" y="504" width="61.88" height="16" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="602" y="508" width="22" height="8" rx="2" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<rect x="632" y="530" width="47.32" height="16" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="602" y="534" width="22" height="8" rx="2" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<line x1="744.84" y1="288" x2="744.84" y2="558" stroke="#274246" stroke-width="1.8" stroke-dasharray="4,3"/>
+<rect x="876" y="284" width="35.533203125" height="26" rx="13" fill="#f1f1fe" stroke="#c3baff" stroke-width="1.5"/>
+<text x="887" y="302" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#4b2fb0" text-anchor="start">År</text>
+<rect x="917.533203125" y="284" width="61.025390625" height="26" rx="13" fill="#f1f1fe" stroke="#c3baff" stroke-width="1.5"/>
+<text x="928.533203125" y="302" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#4b2fb0" text-anchor="start">Sektor</text>
+<rect x="984.55859375" y="284" width="84.08642578125" height="26" rx="13" fill="#f1f1fe" stroke="#c3baff" stroke-width="1.5"/>
+<text x="995.55859375" y="302" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#4b2fb0" text-anchor="start">Arbeidstid</text>
+<rect x="876" y="318" width="44.19775390625" height="26" rx="13" fill="#f1f1fe" stroke="#c3baff" stroke-width="1.5"/>
+<text x="887" y="336" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#4b2fb0" text-anchor="start">Mål</text>
+<rect x="926.19775390625" y="318" width="66.6240234375" height="26" rx="13" fill="#f1f1fe" stroke="#c3baff" stroke-width="1.5"/>
+<text x="937.19775390625" y="336" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#4b2fb0" text-anchor="start">Næring</text>
+<rect x="998.82177734375" y="318" width="48.7109375" height="26" rx="13" fill="#f1f1fe" stroke="#c3baff" stroke-width="1.5"/>
+<text x="1009.82177734375" y="336" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#4b2fb0" text-anchor="start">Yrke</text>
+<rect x="876" y="352" width="93.46826171875" height="26" rx="13" fill="#f1f1fe" stroke="#c3baff" stroke-width="1.5"/>
+<text x="887" y="370" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#4b2fb0" text-anchor="start">Komponent</text>
+<rect x="902" y="400" width="154.8" height="18" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="876" y="405" width="20" height="8" rx="2" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<rect x="902" y="430" width="129.0" height="18" rx="0" fill="#4b2fb0" stroke="none" stroke-width="1"/>
+<rect x="876" y="435" width="20" height="8" rx="2" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<rect x="902" y="460" width="103.2" height="18" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="876" y="465" width="20" height="8" rx="2" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<rect x="902" y="490" width="77.4" height="18" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="876" y="495" width="20" height="8" rx="2" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<rect x="916" y="528" width="192" height="70" rx="6" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.5"/>
+<rect x="928" y="540" width="127.8" height="10" rx="0" fill="#56B4E9" stroke="none" stroke-width="1"/>
+<rect x="928" y="558" width="99.39999999999999" height="10" rx="0" fill="#56B4E9" stroke="none" stroke-width="1"/>
+<rect x="928" y="576" width="71.0" height="10" rx="0" fill="#56B4E9" stroke="none" stroke-width="1"/>
+<line x1="996" y1="452" x2="996" y2="526" stroke="#4b2fb0" stroke-width="1.5" stroke-dasharray="3,3"/>
+<rect x="1156" y="280" width="230" height="304" rx="6" fill="#ffffff" stroke="#274246" stroke-width="1.5"/>
+<rect x="1168" y="292" width="140" height="9" rx="2" fill="#274246" stroke="none" stroke-width="1"/>
+<rect x="1168" y="312" width="32" height="12" rx="6" fill="#f1f1fe" stroke="#c3baff" stroke-width="1"/>
+<rect x="1204" y="312" width="32" height="12" rx="6" fill="#f1f1fe" stroke="#c3baff" stroke-width="1"/>
+<rect x="1240" y="312" width="32" height="12" rx="6" fill="#f1f1fe" stroke="#c3baff" stroke-width="1"/>
+<rect x="1276" y="312" width="32" height="12" rx="6" fill="#f1f1fe" stroke="#c3baff" stroke-width="1"/>
+<rect x="1312" y="312" width="32" height="12" rx="6" fill="#f1f1fe" stroke="#c3baff" stroke-width="1"/>
+<rect x="1348" y="312" width="32" height="12" rx="6" fill="#f1f1fe" stroke="#c3baff" stroke-width="1"/>
+<rect x="1168" y="334" width="68" height="34" rx="3" fill="#eff8fa" stroke="#c4dddb" stroke-width="1"/>
+<rect x="1242" y="334" width="68" height="34" rx="3" fill="#eff8fa" stroke="#c4dddb" stroke-width="1"/>
+<rect x="1316" y="334" width="68" height="34" rx="3" fill="#eff8fa" stroke="#c4dddb" stroke-width="1"/>
+<rect x="1168" y="378" width="120" height="164" rx="3" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+<rect x="1176" y="388" width="91.19999999999999" height="10" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="1176" y="406" width="82.56" height="10" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="1176" y="424" width="73.92" height="10" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="1176" y="442" width="65.28" height="10" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="1176" y="460" width="56.64" height="10" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="1176" y="478" width="48.0" height="10" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="1176" y="496" width="39.35999999999999" height="10" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="1176" y="514" width="30.719999999999995" height="10" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="1296" y="378.0" width="78" height="48.666666666666664" rx="3" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+<rect x="1296" y="432.6666666666667" width="78" height="48.666666666666664" rx="3" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+<rect x="1296" y="487.3333333333333" width="78" height="48.666666666666664" rx="3" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+<rect x="1304" y="493.3333333333333" width="18" height="30" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="1304" y="481.3333333333333" width="18" height="12" rx="0" fill="#E69F00" stroke="none" stroke-width="1"/>
+<rect x="1326" y="499.3333333333333" width="18" height="24" rx="0" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="1326" y="491.3333333333333" width="18" height="8" rx="0" fill="#E69F00" stroke="none" stroke-width="1"/>
+<rect x="1168" y="554" width="206" height="6" rx="3" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<text x="318" y="680" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#00824d" text-anchor="start">11418</text>
+<rect x="318" y="692" width="64" height="16" rx="1" fill="#b6e9b8" stroke="#00824d" stroke-width="1"/>
+<rect x="388" y="692" width="64" height="16" rx="1" fill="#b6e9b8" stroke="#00824d" stroke-width="1"/>
+<rect x="458" y="692" width="64" height="16" rx="1" fill="#b6e9b8" stroke="#00824d" stroke-width="1"/>
+<rect x="318" y="714" width="64" height="16" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="388" y="714" width="64" height="16" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="458" y="714" width="64" height="16" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="318" y="736" width="64" height="16" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="388" y="736" width="64" height="16" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="458" y="736" width="64" height="16" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="318" y="758" width="64" height="16" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="388" y="758" width="64" height="16" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="458" y="758" width="64" height="16" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="318" y="780" width="64" height="16" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="388" y="780" width="64" height="16" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="458" y="780" width="64" height="16" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="318" y="802" width="64" height="16" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="388" y="802" width="64" height="16" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="458" y="802" width="64" height="16" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="318" y="824" width="64" height="16" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="388" y="824" width="64" height="16" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="458" y="824" width="64" height="16" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="318" y="846" width="64" height="16" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="388" y="846" width="64" height="16" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="458" y="846" width="64" height="16" rx="1" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<text x="431.0" y="940" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#00824d" text-anchor="middle">yrke × kjønn × år</text>
+<line x1="602" y1="792" x2="820" y2="792" stroke="#b9c5c6" stroke-width="1.2"/>
+<polyline points="602.0,734.0 629.2,728.0 656.5,722.0 683.8,716.0 711.0,710.0 738.2,704.0 765.5,698.0 792.8,692.0 820.0,686.0" fill="none" stroke="#b9c5c6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="602.0,712.0 629.2,706.0 656.5,700.0 683.8,694.0 711.0,688.0 738.2,682.0 765.5,676.0 792.8,670.0 820.0,664.0" fill="none" stroke="#56B4E9" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="602.0,752.0 629.2,745.5 656.5,739.0 683.8,732.5 711.0,726.0 738.2,719.5 765.5,713.0 792.8,706.5 820.0,700.0" fill="none" stroke="#E69F00" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="602" y1="876" x2="820" y2="876" stroke="#b9c5c6" stroke-width="1"/>
+<circle cx="658.737521768012" cy="864.9050189730785" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="690.4195320369148" cy="863.3508318759277" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="625.1699889445588" cy="855.9522695654478" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="793.7550985313683" cy="843.9864294551257" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="763.5021952960768" cy="861.3421547292904" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="718.2626416186131" cy="859.6995206967565" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="646.1875767985031" cy="864.814501227054" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="654.4512856506254" cy="840.1757310571581" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="776.1261696581271" cy="843.8004295989304" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="770.4886720315073" cy="862.1969314594228" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="673.3502915453081" cy="849.1907319276061" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="756.9151523579861" cy="842.3605492602596" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="786.2500487695174" cy="865.3984524209524" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="731.9586729765363" cy="847.8489563045058" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="712.1788475906623" cy="862.6662947727765" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="705.7704017418587" cy="865.3196137820383" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="797.0484960521818" cy="842.0354748944475" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="720.4324961782366" cy="858.9926278128003" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="791.9563173041079" cy="850.8289959494233" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="786.6988134960004" cy="842.5586773532909" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="712.6577303158848" cy="855.5816187060481" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="730.5846694936179" cy="855.0687094812008" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="643.9414800120785" cy="858.8466521070178" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="772.8932790896549" cy="866.7028459278325" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="621.1717558026955" cy="849.2094776338029" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="667.5257759000114" cy="851.9613461536173" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="705.3055370507686" cy="857.7147020373353" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="809.4612170860782" cy="862.1327951700006" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="693.7333419686504" cy="861.9198815148281" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="737.2676663946218" cy="859.7108549512095" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="682.4544894122557" cy="845.5917195702862" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="675.4924428434489" cy="851.2441304924982" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="791.0543901030702" cy="864.9706168384643" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="624.1988279239548" cy="861.1339167928371" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="763.5021237826027" cy="849.537037746139" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="659.0085996254145" cy="858.067990138848" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="647.1528593123182" cy="854.2294374348947" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="620.4766151808399" cy="847.0812435561545" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="789.3937002641409" cy="839.3578720497296" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="757.5058353818373" cy="839.2039722516115" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="615.6011300080748" cy="859.3301059629747" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="803.2693378796884" cy="844.7428169432455" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="693.2646808516373" cy="839.7007489794106" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="734.8610733497787" cy="843.4621659790524" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="670.0952302240615" cy="862.2575438557378" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="699.9401634172729" cy="863.9068712033226" r="3.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="737.16" cy="848" r="7" fill="#0072B2" stroke="#ffffff" stroke-width="2"/>
+<text x="737.16" y="916" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#0072B2" text-anchor="middle">ditt yrke</text>
+<rect x="882" y="666" width="218" height="40" rx="20" fill="#f1f1fe" stroke="#7d5fea" stroke-width="2"/>
+<circle cx="904" cy="686" r="7" fill="none" stroke="#4b2fb0" stroke-width="2"/>
+<line x1="909" y1="691" x2="914" y2="696" stroke="#4b2fb0" stroke-width="2"/>
+<text x="924" y="691" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#4b2fb0" text-anchor="start">Søk etter yrke</text>
+<rect x="892" y="718" width="198" height="20" rx="3" fill="#f1f1fe" stroke="#cdd3d4" stroke-width="1"/>
+<rect x="902" y="725" width="100" height="6" rx="3" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<rect x="892" y="744" width="198" height="20" rx="3" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+<rect x="902" y="751" width="88" height="6" rx="3" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<rect x="892" y="770" width="198" height="20" rx="3" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+<rect x="902" y="777" width="76" height="6" rx="3" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<rect x="892" y="796" width="198" height="20" rx="3" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+<rect x="902" y="803" width="64" height="6" rx="3" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<text x="991.0" y="862" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4b2fb0" text-anchor="middle">Ett valg styrer alt</text>
+<text x="991.0" y="884" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#5e787a" text-anchor="middle">nøkkeltall og begge diagrammer</text>
+<rect x="1196.0" y="641" width="150" height="310" rx="18" fill="#ffffff" stroke="#274246" stroke-width="2.5"/>
+<rect x="1253.0" y="649" width="36" height="5" rx="2" fill="#274246" stroke="none" stroke-width="1"/>
+<rect x="1208.0" y="665" width="110" height="9" rx="2" fill="#274246" stroke="none" stroke-width="1"/>
+<rect x="1208.0" y="683" width="126" height="18" rx="9" fill="#f1f1fe" stroke="#c3baff" stroke-width="1"/>
+<rect x="1208.0" y="709" width="38" height="26" rx="3" fill="#eff8fa" stroke="#c4dddb" stroke-width="1"/>
+<rect x="1251.0" y="709" width="38" height="26" rx="3" fill="#eff8fa" stroke="#c4dddb" stroke-width="1"/>
+<rect x="1294.0" y="709" width="38" height="26" rx="3" fill="#eff8fa" stroke="#c4dddb" stroke-width="1"/>
+<polyline points="1210.0,777.0 1246.0,767.0 1286.0,761.0 1330.0,751.0" fill="none" stroke="#56B4E9" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1210.0,789.0 1246.0,781.0 1286.0,777.0 1330.0,769.0" fill="none" stroke="#E69F00" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1214.0" cy="815" r="2.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="1224.0" cy="808" r="2.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="1234.0" cy="815" r="2.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="1244.0" cy="808" r="2.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="1254.0" cy="815" r="2.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="1264.0" cy="808" r="2.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="1274.0" cy="815" r="2.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="1284.0" cy="808" r="2.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="1294.0" cy="815" r="2.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="1304.0" cy="808" r="2.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="1314.0" cy="815" r="2.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="1324.0" cy="808" r="2.5" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="1294.0" cy="811" r="4.5" fill="#0072B2" stroke="none" stroke-width="1"/>
+<rect x="1208.0" y="837" width="126" height="68" rx="4" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+<text x="1271.0" y="875" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" fill="#00824d" text-anchor="middle">Slik lages tallene</text>
+<rect x="1208.0" y="917" width="100" height="5" rx="2" fill="#b9c5c6" stroke="none" stroke-width="1"/>
+<circle cx="562" cy="262" r="17" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="562" y="268" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<circle cx="1122" cy="262" r="17" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1122" y="268" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<circle cx="1122" cy="626" r="17" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1122" y="632" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<circle cx="1402" cy="626" r="17" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1402" y="632" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<rect x="1440" y="180" width="420" height="806" rx="6" fill="#eff8fa" stroke="none" stroke-width="1"/>
+<text x="1468" y="230" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#274246" text-anchor="start">Slik leses figuren</text>
+<circle cx="1485" cy="273" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="279" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="1514" y="280" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Internt: mer data</text>
+<text x="1514" y="308" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">To tabeller, lønnskomponenter</text>
+<text x="1514" y="332" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">og kvartiler. Brukerne kjenner</text>
+<text x="1514" y="356" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">tallene.</text>
+<circle cx="1485" cy="399" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="405" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="1514" y="406" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Internt: mange valg</text>
+<text x="1514" y="434" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Sju valg og drill-down.</text>
+<text x="1514" y="458" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Kontrollen må dekke de</text>
+<text x="1514" y="482" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">vanskelige kombinasjonene.</text>
+<circle cx="1485" cy="525" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="531" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1514" y="532" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Eksternt: ett valg</text>
+<text x="1514" y="560" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Yrket styrer hele siden,</text>
+<text x="1514" y="584" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">også forskjellen mellom</text>
+<text x="1514" y="608" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">kvinner og menn.</text>
+<circle cx="1485" cy="651" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="657" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="1514" y="658" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Eksternt: fortelling på mobil</text>
+<text x="1514" y="686" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Mindre data, mer forklaring.</text>
+<text x="1514" y="710" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Konseptgrafikken forklarer</text>
+<text x="1514" y="734" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">hva tallene ikke viser.</text>
+<rect x="60" y="1030" width="30" height="20" rx="3" fill="#ecfeed" stroke="#00824d" stroke-width="1.5"/>
+<text x="100" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Data</text>
+<rect x="169.09375" y="1030" width="30" height="20" rx="3" fill="#f1f1fe" stroke="#7d5fea" stroke-width="1.5"/>
+<text x="209.09375" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Valg</text>
+<rect x="274.25" y="1030" width="30" height="20" rx="3" fill="#0072B2" stroke="#0072B2" stroke-width="1.5"/>
+<text x="314.25" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Kvinner i prosent av menn</text>
+<rect x="544.2734375" y="1030" width="30" height="20" rx="3" fill="#E69F00" stroke="#E69F00" stroke-width="1.5"/>
+<text x="584.2734375" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Kvinner</text>
+<rect x="675.25" y="1030" width="30" height="20" rx="3" fill="#56B4E9" stroke="#56B4E9" stroke-width="1.5"/>
+<text x="715.25" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Menn</text>
+<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="end">November 2026 · Utkast · Veileder E · Skisser uten tall, byttes med skjermbilder fra prototypene</text>
+</svg>

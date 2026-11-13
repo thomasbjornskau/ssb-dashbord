@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<text x="60" y="92" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#274246" text-anchor="start">Brukerhistorien</text>
+<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">En vanlig brukerhistorie, og det et dashbord med statistikk trenger i tillegg</text>
+<line x1="60" y1="160" x2="1860" y2="160" stroke="#cdd3d4" stroke-width="2"/>
+<rect x="1687.5" y="62" width="172.5" height="40" rx="20" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="1773.75" y="89" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#274246" text-anchor="middle">Arbeidsark D1</text>
+<rect x="60" y="186" width="1340" height="300" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="84" y="222" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#4b2fb0" text-anchor="start">VANLIG BRUKERHISTORIE</text>
+<text x="84" y="290" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="34" font-weight="400" fill="#1e3a3f" text-anchor="start">Som</text>
+<line x1="162.5732421875" y1="296" x2="682.5732421875" y2="296" stroke="#4b2fb0" stroke-width="2"/>
+<text x="166.5732421875" y="286" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#b9c5c6" text-anchor="start">rolle</text>
+<text x="84" y="370" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="34" font-weight="400" fill="#1e3a3f" text-anchor="start">ønsker jeg å</text>
+<line x1="283.05078125" y1="376" x2="1183.05078125" y2="376" stroke="#4b2fb0" stroke-width="2"/>
+<text x="287.05078125" y="366" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#b9c5c6" text-anchor="start">oppgave</text>
+<text x="84" y="450" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="34" font-weight="400" fill="#1e3a3f" text-anchor="start">for å</text>
+<line x1="165.51171875" y1="456" x2="1065.51171875" y2="456" stroke="#4b2fb0" stroke-width="2"/>
+<text x="169.51171875" y="446" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#b9c5c6" text-anchor="start">mål: hva skjer etterpå?</text>
+<text x="1075.51171875" y="450" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="34" font-weight="400" fill="#1e3a3f" text-anchor="start">.</text>
+<text x="60" y="530" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#00824d" text-anchor="start">TILLEGG FOR STATISTIKK</text>
+<rect x="60.0" y="546" width="255.2" height="8" rx="3" fill="#00824d" stroke="none" stroke-width="1"/>
+<text x="60.0" y="580" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#00824d" text-anchor="start">Statistikkmål</text>
+<rect x="60.0" y="594" width="255.2" height="280" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="74.0" y="618" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Hvilke tall, i hvilken enhet?</text>
+<text x="74.0" y="641" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#b9c5c6" text-anchor="start">EKSEMPEL</text>
+<text x="74.0" y="659" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#b9c5c6" text-anchor="start">Månedslønn, median, kr</text>
+<rect x="331.2" y="546" width="255.2" height="8" rx="3" fill="#00824d" stroke="none" stroke-width="1"/>
+<text x="331.2" y="580" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#00824d" text-anchor="start">Kjennetegn</text>
+<rect x="331.2" y="594" width="255.2" height="280" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="345.2" y="618" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Hvilke grupper deles tallene etter?</text>
+<line x1="345.2" y1="679.8333333333334" x2="572.4" y2="679.8333333333334" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="345.2" y1="716.6666666666666" x2="572.4" y2="716.6666666666666" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="345.2" y1="753.5" x2="572.4" y2="753.5" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="345.2" y1="790.3333333333334" x2="572.4" y2="790.3333333333334" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="345.2" y1="827.1666666666667" x2="572.4" y2="827.1666666666667" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="345.2" y1="864.0" x2="572.4" y2="864.0" stroke="#dfe5e5" stroke-width="1.2"/>
+<rect x="602.4" y="546" width="255.2" height="8" rx="3" fill="#274246" stroke="none" stroke-width="1"/>
+<text x="602.4" y="580" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#274246" text-anchor="start">Formål</text>
+<rect x="602.4" y="594" width="255.2" height="280" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="616.4" y="618" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Hvilke formål fra arbeidsark B2?</text>
+<line x1="616.4" y1="679.8333333333334" x2="843.5999999999999" y2="679.8333333333334" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="616.4" y1="716.6666666666666" x2="843.5999999999999" y2="716.6666666666666" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="616.4" y1="753.5" x2="843.5999999999999" y2="753.5" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="616.4" y1="790.3333333333334" x2="843.5999999999999" y2="790.3333333333334" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="616.4" y1="827.1666666666667" x2="843.5999999999999" y2="827.1666666666667" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="616.4" y1="864.0" x2="843.5999999999999" y2="864.0" stroke="#dfe5e5" stroke-width="1.2"/>
+<rect x="873.5999999999999" y="546" width="255.2" height="8" rx="3" fill="#00824d" stroke="none" stroke-width="1"/>
+<text x="873.5999999999999" y="580" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#00824d" text-anchor="start">Kilde og filtre</text>
+<rect x="873.5999999999999" y="594" width="255.2" height="280" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="887.5999999999999" y="618" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Tabellnummer, og hva brukeren kan</text>
+<text x="887.5999999999999" y="635" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">velge</text>
+<line x1="887.5999999999999" y1="694.0" x2="1114.8" y2="694.0" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="887.5999999999999" y1="728.0" x2="1114.8" y2="728.0" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="887.5999999999999" y1="762.0" x2="1114.8" y2="762.0" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="887.5999999999999" y1="796.0" x2="1114.8" y2="796.0" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="887.5999999999999" y1="830.0" x2="1114.8" y2="830.0" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="887.5999999999999" y1="864.0" x2="1114.8" y2="864.0" stroke="#dfe5e5" stroke-width="1.2"/>
+<rect x="1144.8" y="546" width="255.2" height="8" rx="3" fill="#4b2fb0" stroke="none" stroke-width="1"/>
+<text x="1144.8" y="580" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#4b2fb0" text-anchor="start">Standardvisning</text>
+<rect x="1144.8" y="594" width="255.2" height="280" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="1158.8" y="618" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Hva vises før brukeren velger?</text>
+<line x1="1158.8" y1="679.8333333333334" x2="1386.0" y2="679.8333333333334" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="1158.8" y1="716.6666666666666" x2="1386.0" y2="716.6666666666666" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="1158.8" y1="753.5" x2="1386.0" y2="753.5" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="1158.8" y1="790.3333333333334" x2="1386.0" y2="790.3333333333334" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="1158.8" y1="827.1666666666667" x2="1386.0" y2="827.1666666666667" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="1158.8" y1="864.0" x2="1386.0" y2="864.0" stroke="#dfe5e5" stroke-width="1.2"/>
+<text x="60" y="916" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#4b2fb0" text-anchor="start">Sjekk: henger tilleggsfeltene sammen med setningen?</text>
+<rect x="560" y="901" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="590" y="917" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#1e3a3f" text-anchor="start">Ja</text>
+<rect x="640" y="901" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="670" y="917" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#1e3a3f" text-anchor="start">Må justeres</text>
+<rect x="1440" y="180" width="420" height="806" rx="6" fill="#eff8fa" stroke="none" stroke-width="1"/>
+<text x="1468" y="230" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#274246" text-anchor="start">Slik fyller du ut</text>
+<circle cx="1485" cy="273" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="279" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="1514" y="280" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Skriv setningen</text>
+<text x="1514" y="308" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Bruk setningen fra arbeidsark</text>
+<text x="1514" y="332" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">A2 som start.</text>
+<circle cx="1485" cy="375" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="381" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="1514" y="382" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Fyll ut tilleggene</text>
+<text x="1514" y="410" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">De tvinger fram valgene som</text>
+<text x="1514" y="434" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">ellers tas tilfeldig.</text>
+<circle cx="1485" cy="477" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="483" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1514" y="484" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Les det høyt</text>
+<text x="1514" y="512" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Kan en kollega skissere</text>
+<text x="1514" y="536" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">dashbordet ut fra dette?</text>
+<text x="1468" y="958" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="start">Bygger på figur D2</text>
+<rect x="60" y="1030" width="30" height="20" rx="3" fill="#fbfbff" stroke="#c3baff" stroke-width="1.5"/>
+<text x="100" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Fyll ut</text>
+<rect x="178.0234375" y="1030" width="30" height="20" rx="3" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="218.0234375" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Svakt eksempel: lønn</text>
+<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="end">Kurs: Datavisualisering og dashbord · Del D · Arbeidsark 1 av 3</text>
+</svg>

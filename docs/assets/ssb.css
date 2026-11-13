@@ -1,0 +1,121 @@
+/* Farger fra konseptfigurene */
+:root {
+  --md-primary-fg-color: #274246;
+  --md-primary-fg-color--light: #5e787a;
+  --md-primary-fg-color--dark: #1e3a3f;
+  --md-accent-fg-color: #00824d;
+  --ssb-lilla: #7d5fea;
+  --ssb-lilla-tekst: #4b2fb0;
+  --ssb-lilla-lys: #f1f1fe;
+  --ssb-felt: #c3baff;
+  --ssb-feltbg: #fbfbff;
+  --ssb-gronn: #00824d;
+  --ssb-gronn-lys: #ecfeed;
+  --ssb-flate: #eff8fa;
+  --ssb-linje: #cdd3d4;
+  --ssb-gra: #5e787a;
+}
+[data-md-color-scheme="slate"] {
+  --ssb-feltbg: #262a3a;
+  --ssb-lilla-lys: #2a2840;
+  --ssb-gronn-lys: #1c2e26;
+  --ssb-flate: #232b2d;
+  --ssb-linje: #4a5658;
+  --ssb-lilla-tekst: #c3baff;
+}
+
+.md-typeset h1 { font-weight: 700; color: var(--md-default-fg-color); }
+
+/* Figurer */
+.md-typeset figure.figur { margin: 1.6em 0 2em; max-width: 100%; }
+.md-typeset figure.figur img {
+  width: 100%; height: auto; background: #fff;
+  border: 1px solid var(--ssb-linje); border-radius: 4px;
+}
+.md-typeset figure.figur figcaption {
+  max-width: none; font-size: .78rem; color: var(--ssb-gra); font-style: normal; margin-top: .5em;
+}
+.md-typeset figure.figur figcaption a { color: var(--ssb-gra); text-decoration: underline; }
+
+/* Arbeidsark */
+.ark { margin: 1.5em 0; }
+.ark-verktoy {
+  display: flex; flex-wrap: wrap; gap: .5em; align-items: center;
+  position: sticky; top: 3.2rem; z-index: 2; padding: .6em 0;
+  background: var(--md-default-bg-color); border-bottom: 1px solid var(--ssb-linje);
+}
+.md-typeset .ark-verktoy .md-button { margin: 0; padding: .35em .9em; font-size: .72rem; }
+.md-typeset .ark-verktoy .ark-tom { border-color: var(--ssb-linje); color: var(--ssb-gra); }
+.ark-status { font-size: .7rem; color: var(--ssb-gra); margin-left: auto; }
+
+.md-typeset .ark-del { margin: 2em 0 1em; }
+.md-typeset .ark-del h3 { margin: 0 0 .7em; font-size: 1rem; }
+.ark-rad { display: grid; grid-template-columns: repeat(var(--kol, 2), minmax(0, 1fr)); gap: .9em; margin-bottom: .9em; }
+@media (max-width: 1100px) { .ark-rad { grid-template-columns: repeat(min(var(--kol, 2), 2), minmax(0, 1fr)); } }
+@media (max-width: 640px) { .ark-rad { grid-template-columns: 1fr; } }
+
+.ark-kort {
+  border: 1px solid var(--ssb-linje); border-radius: 6px; padding: .8em .9em .2em;
+  background: var(--ssb-flate); margin-bottom: .9em;
+}
+.ark-kort.lilla { background: var(--ssb-lilla-lys); border-color: var(--ssb-felt); }
+.ark-kort.gronn { background: var(--ssb-gronn-lys); border-color: #b6e9b8; }
+.ark-kort.mork > h4 { background: #274246; color: #fff; margin: -.8em -.9em .8em; padding: .5em .9em; border-radius: 5px 5px 0 0; }
+.ark-kort.niva0 > h4 { color: var(--ssb-lilla-tekst); }
+.ark-kort.niva1 > h4 { color: var(--ssb-lilla); }
+.md-typeset .ark-kort h4 { margin: 0 0 .4em; font-size: .85rem; }
+.md-typeset .ark-under { font-size: .7rem; color: var(--ssb-gra); margin: -.2em 0 .7em; }
+
+.ark-felt { display: block; margin-bottom: .8em; }
+.ark-lbl { display: block; font-size: .72rem; font-weight: 600; color: var(--ssb-gra); margin-bottom: .25em; }
+.ark input[type=text], .ark textarea {
+  width: 100%; box-sizing: border-box; font: inherit; font-size: .8rem; color: var(--md-default-fg-color);
+  border: 1.5px dashed var(--ssb-felt); background: var(--ssb-feltbg); border-radius: 6px; padding: .45em .6em;
+}
+.ark textarea { resize: vertical; min-height: 3.2em; line-height: 1.45; }
+.ark input::placeholder, .ark textarea::placeholder { color: #9aa9aa; font-style: italic; }
+.ark input[type=text]:focus, .ark textarea:focus { outline: 2px solid var(--ssb-lilla); border-style: solid; }
+.ark-felles { max-width: 34em; }
+.ark-felles input[type=text] { border-style: solid; border-color: var(--ssb-linje); }
+
+.ark-kryss { display: flex; gap: .5em; align-items: baseline; font-size: .78rem; margin-bottom: .55em; }
+.ark-kryss input, .ark-valg input { accent-color: var(--ssb-lilla); transform: scale(1.15); }
+.md-typeset .ark-valg { border: 0; padding: 0; margin: .4em 0 .9em; }
+.md-typeset .ark-valg legend { font-size: .72rem; font-weight: 600; color: var(--ssb-gra); padding: 0; margin-bottom: .3em; }
+.ark-valg label { display: inline-flex; gap: .4em; align-items: baseline; margin: 0 1.4em .3em 0; font-size: .8rem; }
+
+.ark-setning p { font-size: 1.05rem; line-height: 2.4; margin: 0; }
+.ark input.ark-hull {
+  width: auto; display: inline-block; border: 0; border-bottom: 2px solid var(--ssb-lilla-tekst);
+  border-radius: 0; background: transparent; padding: .1em .3em; font-size: 1rem; min-width: 8ch; max-width: 100%;
+}
+.ark-hent { border-left: 4px solid var(--ssb-gronn); background: var(--ssb-gronn-lys); padding: .5em .9em; margin-bottom: .8em; border-radius: 0 6px 6px 0; }
+.ark-hent p { margin: 0; font-size: .85rem; }
+.ark-hent p.ark-tomt { color: var(--ssb-gra); font-style: italic; }
+
+.ark-tabell { overflow-x: auto; }
+.md-typeset .ark-tabell table { display: table; width: 100%; border: 0; font-size: .75rem; }
+.md-typeset .ark-tabell th, .md-typeset .ark-tabell td { padding: .25em .35em; border: 0; background: none; }
+.md-typeset .ark-tabell th { text-align: left; white-space: nowrap; color: var(--ssb-gra); }
+.md-typeset .ark-tabell td { min-width: 9em; }
+
+/* Oversikten */
+.ark-pabegynt { color: var(--ssb-gronn); font-weight: 600; }
+.ark-oversikt .ark-verktoy { position: static; border: 0; }
+
+/* Utskrift: bare skjemaet og svarene */
+@media print {
+  .md-header, .md-sidebar, .md-footer, .md-tabs, .ark-verktoy, .admonition, details, .md-source-file, .md-content__button { display: none !important; }
+  .md-main__inner { margin: 0; }
+  .md-content { max-width: none; }
+  .ark input[type=text], .ark textarea { border: 1px solid #999; background: #fff; }
+  .ark textarea { overflow: visible; height: auto; }
+  .ark-kort, .ark-del { break-inside: avoid; }
+  .md-typeset a[href]::after { content: none; }
+}
+
+/* Bredere innholdsflate, så figurene blir lesbare */
+.md-grid { max-width: 1440px; }
+/* Lesbar linjelengde i brødteksten; figurer, tabeller og skjemaer får full bredde */
+.md-typeset > p, .md-typeset > ul, .md-typeset > ol, .md-typeset > h1, .md-typeset > h2,
+.md-typeset > blockquote, .md-typeset > .footnote { max-width: 46rem; }

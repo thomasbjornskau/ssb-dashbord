@@ -1,0 +1,87 @@
+site_name: Dashbord i SSB
+site_description: Veiledere om dashbord i Statistisk sentralbyrå, del A–E, med arbeidsark til kurset «Datavisualisering og dashbord».
+site_author: Thomas Bjørnskau
+# Sett inn adressen når repoet er publisert, f.eks. https://<bruker>.github.io/ssb-dashbordveileder/
+# site_url:
+repo_name: ssb-dashbordveileder
+# repo_url: https://github.com/<bruker>/ssb-dashbordveileder
+copyright: Utkast · Statistisk sentralbyrå · Veiledning i bruk av dashbord
+
+# Sidene ligger som .html-filer. Da virker de relative lenkene til figurene også i rå HTML.
+use_directory_urls: false
+
+theme:
+  name: material
+  language: nb
+  font:
+    text: Open Sans
+    code: Roboto Mono
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Mørk visning
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Lys visning
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - toc.follow
+    - toc.integrate
+    - search.highlight
+    - content.tooltips
+
+extra_css:
+  - assets/ssb.css
+extra_javascript:
+  - assets/ark.js
+
+markdown_extensions:
+  - tables
+  - footnotes
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.magiclink
+  - toc:
+      permalink: true
+      toc_depth: 2
+
+plugins:
+  - search:
+      lang: ["no"]
+
+nav:
+  - Forside: index.md
+  - Veilederne:
+      - A Hvorfor dashbord?: a-hvorfor.md
+      - B Hva er et godt dashbord?: b-godt-dashbord.md
+      - B1 De ni formålene: b1-ni-formal.md
+      - C Hvordan bør vi jobbe?: c-hvordan-jobbe.md
+      - D Hvordan lager vi et dashbord?: d-hvordan-lage.md
+      - E Hvordan bygger vi prototypen?: e-bygge-prototypen.md
+      - Alle figurene: figurer.md
+  - Kurs:
+      - kurs/index.md
+      - A1 Produksjonsløpet: kurs/a1.md
+      - A2 Type dashbord: kurs/a2.md
+      - A3 Fem spørsmål: kurs/a3.md
+      - B1 Brukeren: kurs/b1.md
+      - B2 Formål og diagram: kurs/b2.md
+      - B3 Grunnmalen: kurs/b3.md
+      - C1 Roller: kurs/c1.md
+      - C2 Dashbordkortet: kurs/c2.md
+      - D1 Brukerhistorien: kurs/d1.md
+      - D2 Fra tabell til visning: kurs/d2.md
+      - D3 Brukertesten: kurs/d3.md
+      - E1 Byggeplanen: kurs/e1.md

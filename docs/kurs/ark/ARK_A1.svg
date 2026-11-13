@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<text x="60" y="92" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#274246" text-anchor="start">Hvor i produksjonsløpet trenger du å se dataene?</text>
+<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">Din statistikk, fase for fase</text>
+<line x1="60" y1="160" x2="1860" y2="160" stroke="#cdd3d4" stroke-width="2"/>
+<rect x="1687.5" y="62" width="172.5" height="40" rx="20" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="1773.75" y="89" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#274246" text-anchor="middle">Arbeidsark A1</text>
+<text x="60" y="214" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Min statistikk:</text>
+<line x1="210" y1="220" x2="760" y2="220" stroke="#4b2fb0" stroke-width="2"/>
+<text x="218" y="212" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#b9c5c6" text-anchor="start">navn på statistikken</text>
+<polygon points="60.0,250.0 213.5,250.0 231.5,282.0 213.5,314.0 60.0,314.0 60.0,282.0" fill="#eff8fa"/>
+<polygon points="60.0,250 213.5,250 231.5,282 213.5,314 60.0,314 60.0,282" fill="none" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="86.0" y="278" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#5e787a" text-anchor="start">1</text>
+<text x="86.0" y="298" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#274246" text-anchor="start">Avklare behov</text>
+<rect x="70.0" y="334" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="100.0" y="350" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1e3a3f" text-anchor="start">Trenger å se</text>
+<rect x="64.0" y="370" width="155.5" height="200" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="78.0" y="394" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Hva må du se?</text>
+<rect x="64.0" y="584" width="155.5" height="130" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="78.0" y="608" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Hvem ser på det?</text>
+<polygon points="227.5,250.0 381.0,250.0 399.0,282.0 381.0,314.0 227.5,314.0 245.5,282.0" fill="#eff8fa"/>
+<polygon points="227.5,250 381.0,250 399.0,282 381.0,314 227.5,314 245.5,282" fill="none" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="253.5" y="278" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#5e787a" text-anchor="start">2</text>
+<text x="253.5" y="298" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#274246" text-anchor="start">Planlegge</text>
+<rect x="237.5" y="334" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="267.5" y="350" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1e3a3f" text-anchor="start">Trenger å se</text>
+<rect x="231.5" y="370" width="155.5" height="200" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="245.5" y="394" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Hva må du se?</text>
+<rect x="231.5" y="584" width="155.5" height="130" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="245.5" y="608" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Hvem ser på det?</text>
+<polygon points="395.0,250.0 548.5,250.0 566.5,282.0 548.5,314.0 395.0,314.0 413.0,282.0" fill="#eff8fa"/>
+<polygon points="395.0,250 548.5,250 566.5,282 548.5,314 395.0,314 413.0,282" fill="none" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="421.0" y="278" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#5e787a" text-anchor="start">3</text>
+<text x="421.0" y="298" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#274246" text-anchor="start">Bygge</text>
+<rect x="405.0" y="334" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="435.0" y="350" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1e3a3f" text-anchor="start">Trenger å se</text>
+<rect x="399.0" y="370" width="155.5" height="200" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="413.0" y="394" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Hva må du se?</text>
+<rect x="399.0" y="584" width="155.5" height="130" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="413.0" y="608" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Hvem ser på det?</text>
+<polygon points="562.5,250.0 716.0,250.0 734.0,282.0 716.0,314.0 562.5,314.0 580.5,282.0" fill="#eff8fa"/>
+<polygon points="562.5,250 716.0,250 734.0,282 716.0,314 562.5,314 580.5,282" fill="none" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="588.5" y="278" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#5e787a" text-anchor="start">4</text>
+<text x="588.5" y="298" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#274246" text-anchor="start">Samle inn</text>
+<rect x="572.5" y="334" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="602.5" y="350" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1e3a3f" text-anchor="start">Trenger å se</text>
+<rect x="566.5" y="370" width="155.5" height="200" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="580.5" y="394" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Hva må du se?</text>
+<rect x="566.5" y="584" width="155.5" height="130" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="580.5" y="608" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Hvem ser på det?</text>
+<polygon points="730.0,250.0 883.5,250.0 901.5,282.0 883.5,314.0 730.0,314.0 748.0,282.0" fill="#eff8fa"/>
+<polygon points="730.0,250 883.5,250 901.5,282 883.5,314 730.0,314 748.0,282" fill="none" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="756.0" y="278" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#5e787a" text-anchor="start">5</text>
+<text x="756.0" y="298" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#274246" text-anchor="start">Klargjøre</text>
+<rect x="740.0" y="334" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<polyline points="744.0,344.0 749.0,349.0 757.0,339.0" fill="none" stroke="#b9c5c6" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="770.0" y="350" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1e3a3f" text-anchor="start">Trenger å se</text>
+<rect x="734.0" y="370" width="155.5" height="200" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="748.0" y="394" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Hva må du se?</text>
+<text x="748.0" y="417" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#b9c5c6" text-anchor="start">EKSEMPEL</text>
+<text x="748.0" y="435" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#b9c5c6" text-anchor="start">Avvik mot i fjor per</text>
+<text x="748.0" y="454" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#b9c5c6" text-anchor="start">næring</text>
+<rect x="734.0" y="584" width="155.5" height="130" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="748.0" y="608" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Hvem ser på det?</text>
+<text x="748.0" y="631" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#b9c5c6" text-anchor="start">EKSEMPEL</text>
+<text x="748.0" y="649" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#b9c5c6" text-anchor="start">Statistikerne</text>
+<polygon points="897.5,250.0 1051.0,250.0 1069.0,282.0 1051.0,314.0 897.5,314.0 915.5,282.0" fill="#eff8fa"/>
+<polygon points="897.5,250 1051.0,250 1069.0,282 1051.0,314 897.5,314 915.5,282" fill="none" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="923.5" y="278" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#5e787a" text-anchor="start">6</text>
+<text x="923.5" y="298" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#274246" text-anchor="start">Analysere</text>
+<rect x="907.5" y="334" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="937.5" y="350" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1e3a3f" text-anchor="start">Trenger å se</text>
+<rect x="901.5" y="370" width="155.5" height="200" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="915.5" y="394" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Hva må du se?</text>
+<rect x="901.5" y="584" width="155.5" height="130" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="915.5" y="608" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Hvem ser på det?</text>
+<polygon points="1065.0,250.0 1218.5,250.0 1236.5,282.0 1218.5,314.0 1065.0,314.0 1083.0,282.0" fill="#eff8fa"/>
+<polygon points="1065.0,250 1218.5,250 1236.5,282 1218.5,314 1065.0,314 1083.0,282" fill="none" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="1091.0" y="278" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#5e787a" text-anchor="start">7</text>
+<text x="1091.0" y="298" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#274246" text-anchor="start">Formidle</text>
+<rect x="1075.0" y="334" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<polyline points="1079.0,344.0 1084.0,349.0 1092.0,339.0" fill="none" stroke="#b9c5c6" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1105.0" y="350" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1e3a3f" text-anchor="start">Trenger å se</text>
+<rect x="1069.0" y="370" width="155.5" height="200" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="1083.0" y="394" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Hva må du se?</text>
+<text x="1083.0" y="417" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#b9c5c6" text-anchor="start">EKSEMPEL</text>
+<text x="1083.0" y="435" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#b9c5c6" text-anchor="start">Hva tjener de i</text>
+<text x="1083.0" y="454" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#b9c5c6" text-anchor="start">yrket mitt?</text>
+<rect x="1069.0" y="584" width="155.5" height="130" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="1083.0" y="608" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Hvem ser på det?</text>
+<text x="1083.0" y="631" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#b9c5c6" text-anchor="start">EKSEMPEL</text>
+<text x="1083.0" y="649" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#b9c5c6" text-anchor="start">Publikum</text>
+<polygon points="1232.5,250.0 1386.0,250.0 1404.0,282.0 1386.0,314.0 1232.5,314.0 1250.5,282.0" fill="#eff8fa"/>
+<polygon points="1232.5,250 1386.0,250 1404.0,282 1386.0,314 1232.5,314 1250.5,282" fill="none" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="1258.5" y="278" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#5e787a" text-anchor="start">8</text>
+<text x="1258.5" y="298" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#274246" text-anchor="start">Evaluere</text>
+<rect x="1242.5" y="334" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="1272.5" y="350" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#1e3a3f" text-anchor="start">Trenger å se</text>
+<rect x="1236.5" y="370" width="155.5" height="200" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="1250.5" y="394" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Hva må du se?</text>
+<rect x="1236.5" y="584" width="155.5" height="130" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="1250.5" y="608" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Hvem ser på det?</text>
+<text x="60" y="760" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Her vil jeg starte</text>
+<rect x="60" y="776" width="420" height="196" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="74" y="800" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Fase, og hva dashbordet skal hjelpe med</text>
+<line x1="74" y1="859.25" x2="466" y2="859.25" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="74" y1="893.5" x2="466" y2="893.5" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="74" y1="927.75" x2="466" y2="927.75" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="74" y1="962.0" x2="466" y2="962.0" stroke="#dfe5e5" stroke-width="1.2"/>
+<rect x="500" y="776" width="900" height="196" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="514" y="800" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Hvorfor denne fasen? Hva koster det i dag å ikke se dataene?</text>
+<line x1="514" y1="859.25" x2="1386" y2="859.25" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="514" y1="893.5" x2="1386" y2="893.5" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="514" y1="927.75" x2="1386" y2="927.75" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="514" y1="962.0" x2="1386" y2="962.0" stroke="#dfe5e5" stroke-width="1.2"/>
+<rect x="1440" y="180" width="420" height="806" rx="6" fill="#eff8fa" stroke="none" stroke-width="1"/>
+<text x="1468" y="230" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#274246" text-anchor="start">Slik fyller du ut</text>
+<circle cx="1485" cy="273" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="279" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="1514" y="280" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Kryss av</text>
+<text x="1514" y="308" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">fasene der noen trenger</text>
+<text x="1514" y="332" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">å se dataene underveis.</text>
+<circle cx="1485" cy="375" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="381" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="1514" y="382" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Skriv hva og hvem</text>
+<text x="1514" y="410" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Hva må de se, og hvem</text>
+<text x="1514" y="434" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">er det? Ett par ord holder.</text>
+<circle cx="1485" cy="477" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="483" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1514" y="484" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Velg én fase</text>
+<text x="1514" y="512" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Start der behovet er størst</text>
+<text x="1514" y="536" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">eller der det koster mest i dag.</text>
+<circle cx="1485" cy="579" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="585" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="1514" y="586" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Del med sidemannen</text>
+<text x="1514" y="614" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Er det samme fase</text>
+<text x="1514" y="638" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">dere ville valgt?</text>
+<text x="1468" y="958" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="start">Bygger på figur A3</text>
+<rect x="60" y="1030" width="30" height="20" rx="3" fill="#fbfbff" stroke="#c3baff" stroke-width="1.5"/>
+<text x="100" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Fyll ut</text>
+<rect x="178.0234375" y="1030" width="30" height="20" rx="3" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="218.0234375" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Svakt eksempel: lønn</text>
+<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="end">Kurs: Datavisualisering og dashbord · Del A · Arbeidsark 1 av 3</text>
+</svg>

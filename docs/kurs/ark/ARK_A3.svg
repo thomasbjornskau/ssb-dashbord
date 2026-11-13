@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<text x="60" y="92" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#274246" text-anchor="start">Bør du lage et dashbord?</text>
+<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">Fem spørsmål før du bestiller, besvart for din statistikk</text>
+<line x1="60" y1="160" x2="1860" y2="160" stroke="#cdd3d4" stroke-width="2"/>
+<rect x="1687.5" y="62" width="172.5" height="40" rx="20" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="1773.75" y="89" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#274246" text-anchor="middle">Arbeidsark A3</text>
+<text x="560" y="194" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#5e787a" text-anchor="start">Ditt svar</text>
+<text x="1110" y="194" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#5e787a" text-anchor="start">Godt nok?</text>
+<circle cx="84" cy="242" r="18" fill="#274246" stroke="none" stroke-width="1"/>
+<text x="84" y="248" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="116" y="238" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Hvem er brukeren, og hva skal hen finne ut?</text>
+<rect x="560" y="208" width="530" height="110" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="574" y="238" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="10" font-weight="700" fill="#b9c5c6" text-anchor="start">EKSEMPEL</text>
+<text x="574" y="256" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#b9c5c6" text-anchor="start">Statistikere som skal finne hvor forskjellen er størst</text>
+<rect x="1110" y="248" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<polyline points="1114.0,258.0 1119.0,263.0 1127.0,253.0" fill="none" stroke="#b9c5c6" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="1140" y="264" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Ja</text>
+<rect x="1206" y="248" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="1236" y="264" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Usikker</text>
+<rect x="1302" y="248" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="1332" y="264" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Nei</text>
+<circle cx="84" cy="366" r="18" fill="#274246" stroke="none" stroke-width="1"/>
+<text x="84" y="372" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="116" y="362" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Hvilken type dashbord er det?</text>
+<rect x="560" y="332" width="530" height="110" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<line x1="574" y1="400.0" x2="1076" y2="400.0" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="574" y1="432.0" x2="1076" y2="432.0" stroke="#dfe5e5" stroke-width="1.2"/>
+<rect x="1110" y="372" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="1140" y="388" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Ja</text>
+<rect x="1206" y="372" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="1236" y="388" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Usikker</text>
+<rect x="1302" y="372" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="1332" y="388" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Nei</text>
+<circle cx="84" cy="490" r="18" fill="#274246" stroke="none" stroke-width="1"/>
+<text x="84" y="496" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="116" y="486" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Trenger brukeren å utforske selv?</text>
+<rect x="560" y="456" width="530" height="110" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<line x1="574" y1="524.0" x2="1076" y2="524.0" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="574" y1="556.0" x2="1076" y2="556.0" stroke="#dfe5e5" stroke-width="1.2"/>
+<rect x="1110" y="496" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="1140" y="512" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Ja</text>
+<rect x="1206" y="496" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="1236" y="512" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Usikker</text>
+<rect x="1302" y="496" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="1332" y="512" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Nei</text>
+<circle cx="84" cy="614" r="18" fill="#274246" stroke="none" stroke-width="1"/>
+<text x="84" y="620" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="116" y="610" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Kan dataene oppdateres automatisk?</text>
+<rect x="560" y="580" width="530" height="110" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<line x1="574" y1="648.0" x2="1076" y2="648.0" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="574" y1="680.0" x2="1076" y2="680.0" stroke="#dfe5e5" stroke-width="1.2"/>
+<rect x="1110" y="620" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="1140" y="636" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Ja</text>
+<rect x="1206" y="620" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="1236" y="636" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Usikker</text>
+<rect x="1302" y="620" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="1332" y="636" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Nei</text>
+<circle cx="84" cy="738" r="18" fill="#274246" stroke="none" stroke-width="1"/>
+<text x="84" y="744" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="116" y="734" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Hvem eier dashbordet etter lansering?</text>
+<rect x="560" y="704" width="530" height="110" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<line x1="574" y1="772.0" x2="1076" y2="772.0" stroke="#dfe5e5" stroke-width="1.2"/>
+<line x1="574" y1="804.0" x2="1076" y2="804.0" stroke="#dfe5e5" stroke-width="1.2"/>
+<rect x="1110" y="744" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="1140" y="760" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Ja</text>
+<rect x="1206" y="744" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="1236" y="760" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Usikker</text>
+<rect x="1302" y="744" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="1332" y="760" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Nei</text>
+<text x="60" y="848" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Konklusjon</text>
+<rect x="60" y="870" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="90" y="886" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Dashbord</text>
+<rect x="390" y="870" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="420" y="886" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Én god figur</text>
+<rect x="720" y="870" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="750" y="886" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Tabell eller artikkel</text>
+<rect x="1050" y="870" width="20" height="20" rx="3" fill="#ffffff" stroke="#4b2fb0" stroke-width="1.8"/>
+<text x="1080" y="886" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#1e3a3f" text-anchor="start">Ikke nå, avklar først</text>
+<rect x="60" y="908" width="1340" height="64" rx="8" fill="#fbfbff" stroke="#c3baff" stroke-width="1.8" stroke-dasharray="7,5"/>
+<text x="74" y="932" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="400" fill="#b9c5c6" text-anchor="start">Neste steg: hva må avklares, og med hvem?</text>
+<line x1="74" y1="962.0" x2="1386" y2="962.0" stroke="#dfe5e5" stroke-width="1.2"/>
+<rect x="1440" y="180" width="420" height="806" rx="6" fill="#eff8fa" stroke="none" stroke-width="1"/>
+<text x="1468" y="230" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#274246" text-anchor="start">Slik fyller du ut</text>
+<circle cx="1485" cy="273" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="279" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="1514" y="280" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Svar kort og konkret</text>
+<text x="1514" y="308" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Klarer du ikke å svare,</text>
+<text x="1514" y="332" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">er svaret «usikker».</text>
+<circle cx="1485" cy="375" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="381" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="1514" y="382" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Vurder hvert svar</text>
+<text x="1514" y="410" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Er det godt nok til å gå</text>
+<text x="1514" y="434" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">videre?</text>
+<circle cx="1485" cy="477" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="483" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1514" y="484" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Trekk en konklusjon</text>
+<text x="1514" y="512" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Ett «nei» er ikke et nederlag.</text>
+<text x="1514" y="536" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Det leder til en bedre</text>
+<text x="1514" y="560" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">løsning.</text>
+<text x="1468" y="958" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="start">Bygger på figur A5</text>
+<rect x="60" y="1030" width="30" height="20" rx="3" fill="#fbfbff" stroke="#c3baff" stroke-width="1.5"/>
+<text x="100" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Fyll ut</text>
+<rect x="178.0234375" y="1030" width="30" height="20" rx="3" fill="#ffffff" stroke="#b9c5c6" stroke-width="1.5"/>
+<text x="218.0234375" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Svakt eksempel: lønn</text>
+<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="end">Kurs: Datavisualisering og dashbord · Del A · Arbeidsark 3 av 3</text>
+</svg>

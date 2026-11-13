@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" rx="0" fill="#ffffff" stroke="none" stroke-width="1"/>
+<text x="60" y="92" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#274246" text-anchor="start">Byggeklossene i et dashbord</text>
+<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">De fleste dashbord er satt sammen av de samme fem delene</text>
+<line x1="60" y1="160" x2="1860" y2="160" stroke="#cdd3d4" stroke-width="2"/>
+<rect x="1740.0" y="62" width="120.0" height="40" rx="20" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="1800.0" y="89" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#274246" text-anchor="middle">Oversikt</text>
+<rect x="120" y="192" width="1260" height="776" rx="10" fill="#eff8fa" stroke="#c4dddb" stroke-width="2"/>
+<text x="146" y="246" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#1e3a3f" text-anchor="start">Sysselsetting i Norge</text>
+<text x="146" y="276" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#5e787a" text-anchor="start">Sysselsatte 15–74 år etter bosted · Oppdatert 4. mars 2026</text>
+<circle cx="120" cy="238" r="17" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="120" y="244" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<rect x="146" y="298" width="262" height="40" rx="20" fill="#f1f1fe" stroke="#c3baff" stroke-width="1.5"/>
+<text x="164" y="324" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#4b2fb0" text-anchor="start">Område:</text>
+<text x="232" y="324" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#4b2fb0" text-anchor="start">Hele landet</text>
+<polygon points="378.0,315.0 390.0,315.0 384.0,322.0" fill="#4b2fb0"/>
+<rect x="422" y="298" width="156" height="40" rx="20" fill="#f1f1fe" stroke="#c3baff" stroke-width="1.5"/>
+<text x="440" y="324" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#4b2fb0" text-anchor="start">År:</text>
+<text x="472" y="324" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#4b2fb0" text-anchor="start">2025</text>
+<polygon points="548.0,315.0 560.0,315.0 554.0,322.0" fill="#4b2fb0"/>
+<rect x="592" y="298" width="186" height="40" rx="20" fill="#f1f1fe" stroke="#c3baff" stroke-width="1.5"/>
+<text x="610" y="324" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#4b2fb0" text-anchor="start">Kjønn:</text>
+<text x="669" y="324" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#4b2fb0" text-anchor="start">Begge</text>
+<polygon points="748.0,315.0 760.0,315.0 754.0,322.0" fill="#4b2fb0"/>
+<circle cx="120" cy="318" r="17" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="120" y="324" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<rect x="146.0" y="356" width="288.5" height="108" rx="6" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+<text x="164.0" y="384" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Sysselsatte</text>
+<text x="164.0" y="426" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#1e3a3f" text-anchor="start">2,9 mill.</text>
+<text x="164.0" y="451" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#00824d" text-anchor="start">+ 31 000 fra 2024</text>
+<rect x="452.5" y="356" width="288.5" height="108" rx="6" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+<text x="470.5" y="384" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Sysselsettingsandel</text>
+<text x="470.5" y="426" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#1e3a3f" text-anchor="start">69,8 %</text>
+<text x="470.5" y="451" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#00824d" text-anchor="start">+ 0,4 prosentpoeng</text>
+<rect x="759.0" y="356" width="288.5" height="108" rx="6" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+<text x="777.0" y="384" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Andel deltid</text>
+<text x="777.0" y="426" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#1e3a3f" text-anchor="start">24,1 %</text>
+<text x="777.0" y="451" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#00824d" text-anchor="start">− 0,3 prosentpoeng</text>
+<rect x="1065.5" y="356" width="288.5" height="108" rx="6" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+<text x="1083.5" y="384" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Andel i offentlig sektor</text>
+<text x="1083.5" y="426" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#1e3a3f" text-anchor="start">32,6 %</text>
+<text x="1083.5" y="451" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#00824d" text-anchor="start">+ 0,2 prosentpoeng</text>
+<circle cx="120" cy="410.0" r="17" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="120" y="416.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<rect x="146" y="482" width="780" height="372" rx="6" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+<text x="168" y="516" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#1e3a3f" text-anchor="start">Sysselsettingsandel, 15–74 år</text>
+<text x="168" y="539" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="start">Prosent, 2015–2025</text>
+<line x1="210" y1="810.0" x2="896" y2="810.0" stroke="#e4e9e9" stroke-width="1"/>
+<text x="200" y="815.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="end">66</text>
+<line x1="210" y1="762.4" x2="896" y2="762.4" stroke="#e4e9e9" stroke-width="1"/>
+<text x="200" y="767.4" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="end">67</text>
+<line x1="210" y1="714.8" x2="896" y2="714.8" stroke="#e4e9e9" stroke-width="1"/>
+<text x="200" y="719.8" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="end">68</text>
+<line x1="210" y1="667.2" x2="896" y2="667.2" stroke="#e4e9e9" stroke-width="1"/>
+<text x="200" y="672.2" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="end">69</text>
+<line x1="210" y1="619.6" x2="896" y2="619.6" stroke="#e4e9e9" stroke-width="1"/>
+<text x="200" y="624.6" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="end">70</text>
+<line x1="210" y1="572.0" x2="896" y2="572.0" stroke="#e4e9e9" stroke-width="1"/>
+<text x="200" y="577.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="end">71</text>
+<text x="224.0" y="836" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="middle">2015</text>
+<text x="355.6" y="836" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="middle">2017</text>
+<text x="487.2" y="836" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="middle">2019</text>
+<text x="618.8" y="836" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="middle">2021</text>
+<text x="750.4" y="836" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="middle">2023</text>
+<text x="882.0" y="836" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="middle">2025</text>
+<polyline points="224.0,743.4 289.8,752.9 355.6,762.4 421.4,743.4 487.2,719.6 553.0,757.6 618.8,714.8 684.6,652.9 750.4,638.6 816.2,648.2 882.0,629.1" fill="none" stroke="#00824d" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="882.0" cy="629.1200000000001" r="6" fill="#00824d" stroke="#ffffff" stroke-width="2"/>
+<text x="872.0" y="613.1200000000001" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#00824d" text-anchor="end">69,8</text>
+<circle cx="120" cy="668.0" r="17" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="120" y="674.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<rect x="944" y="482" width="410" height="177.0" rx="6" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+<text x="964" y="514" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="start">Etter aldersgruppe</text>
+<text x="964" y="535" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="start">Prosent sysselsatte</text>
+<rect x="984.0" y="586.5555555555555" width="50.0" height="40.44444444444444" rx="0" fill="#b6e9b8" stroke="none" stroke-width="1"/>
+<text x="1009.0" y="647.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="middle">15–24</text>
+<rect x="1054.0" y="567.7777777777778" width="50.0" height="59.22222222222222" rx="0" fill="#b6e9b8" stroke="none" stroke-width="1"/>
+<text x="1079.0" y="647.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="middle">25–39</text>
+<rect x="1124.0" y="565.6111111111111" width="50.0" height="61.388888888888886" rx="0" fill="#b6e9b8" stroke="none" stroke-width="1"/>
+<text x="1149.0" y="647.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="middle">40–54</text>
+<rect x="1194.0" y="573.5555555555555" width="50.0" height="53.44444444444444" rx="0" fill="#b6e9b8" stroke="none" stroke-width="1"/>
+<text x="1219.0" y="647.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="middle">55–66</text>
+<rect x="1264.0" y="611.8333333333334" width="50.0" height="15.166666666666666" rx="0" fill="#b6e9b8" stroke="none" stroke-width="1"/>
+<text x="1289.0" y="647.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="middle">67–74</text>
+<line x1="974" y1="627.0" x2="1324" y2="627.0" stroke="#b9c5c6" stroke-width="1"/>
+<rect x="944" y="677.0" width="410" height="177.0" rx="6" fill="#ffffff" stroke="#cdd3d4" stroke-width="1"/>
+<text x="964" y="709.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#1e3a3f" text-anchor="start">Største næringer</text>
+<text x="964" y="730.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="start">1 000 sysselsatte</text>
+<text x="964" y="765.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Helse og sosial</text>
+<rect x="1114" y="751.0" width="160.0" height="18" rx="0" fill="#b6e9b8" stroke="none" stroke-width="1"/>
+<text x="1282.0" y="765.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="start">620</text>
+<text x="964" y="790.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Varehandel</text>
+<rect x="1114" y="776.0" width="95.48387096774194" height="18" rx="0" fill="#b6e9b8" stroke="none" stroke-width="1"/>
+<text x="1217.483870967742" y="790.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="start">370</text>
+<text x="964" y="815.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Bygg og anlegg</text>
+<rect x="1114" y="801.0" width="64.51612903225806" height="18" rx="0" fill="#b6e9b8" stroke="none" stroke-width="1"/>
+<text x="1186.516129032258" y="815.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="start">250</text>
+<text x="964" y="840.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#1e3a3f" text-anchor="start">Industri</text>
+<rect x="1114" y="826.0" width="55.483870967741936" height="18" rx="0" fill="#b6e9b8" stroke="none" stroke-width="1"/>
+<text x="1177.483870967742" y="840.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="start">215</text>
+<circle cx="1354" cy="508" r="17" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1354" y="514" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<line x1="146" y1="876" x2="1354" y2="876" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="146" y="908" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Kilde: Statistikkbanken, tabell 00000 · Neste oppdatering: mars 2027 · Kontakt: seksjon for arbeidsmarked</text>
+<circle cx="1073" cy="903" r="9" fill="none" stroke="#5e787a" stroke-width="1.5"/>
+<text x="1073" y="908" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#5e787a" text-anchor="middle">i</text>
+<text x="1090" y="908" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Om tallene</text>
+<text x="1354" y="908" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#4b2fb0" text-anchor="end">Last ned data</text>
+<line x1="1250" y1="913" x2="1354" y2="913" stroke="#4b2fb0" stroke-width="1.2"/>
+<circle cx="120" cy="902" r="17" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="120" y="908" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<rect x="1440" y="180" width="420" height="806" rx="6" fill="#eff8fa" stroke="none" stroke-width="1"/>
+<text x="1468" y="230" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#274246" text-anchor="start">Fem byggeklosser</text>
+<circle cx="1485" cy="273" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="279" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="1514" y="280" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Tittel og ingress</text>
+<text x="1514" y="308" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Sier hva dashbordet handler om,</text>
+<text x="1514" y="332" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">og hvor ferske tallene er.</text>
+<circle cx="1485" cy="375" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="381" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="1514" y="382" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Nøkkeltall</text>
+<text x="1514" y="410" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Noen få tall som svarer ved</text>
+<text x="1514" y="434" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">første blikk, gjerne med endring</text>
+<text x="1514" y="458" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">fra forrige periode.</text>
+<circle cx="1485" cy="501" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="507" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1514" y="508" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Visninger</text>
+<text x="1514" y="536" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Én hovedvisning som bærer</text>
+<text x="1514" y="560" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">budskapet. Mindre støttevisninger</text>
+<text x="1514" y="584" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">som nyanserer det.</text>
+<circle cx="1485" cy="627" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="633" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="1514" y="634" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Valg</text>
+<text x="1514" y="662" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Filtre og velgere som lar brukeren</text>
+<text x="1514" y="686" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">finne sitt eget utsnitt. Alle</text>
+<text x="1514" y="710" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">visninger følger valget.</text>
+<circle cx="1485" cy="753" r="16" fill="#274246" stroke="#ffffff" stroke-width="2.5"/>
+<text x="1485" y="759" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="1514" y="760" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#1e3a3f" text-anchor="start">Kilde og kontakt</text>
+<text x="1514" y="788" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">Kilde, oppdatering, forklaringer,</text>
+<text x="1514" y="812" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#1e3a3f" text-anchor="start">nedlasting og hvem man kan spørre.</text>
+<rect x="60" y="1030" width="30" height="20" rx="3" fill="#eff8fa" stroke="#c4dddb" stroke-width="1.5"/>
+<text x="100" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Flate og tekst</text>
+<rect x="256.4" y="1030" width="30" height="20" rx="3" fill="#b6e9b8" stroke="#00824d" stroke-width="1.5"/>
+<text x="296.4" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Data og visninger</text>
+<rect x="478.59999999999997" y="1030" width="30" height="20" rx="3" fill="#f1f1fe" stroke="#c3baff" stroke-width="1.5"/>
+<text x="518.5999999999999" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Brukerens valg</text>
+<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="end">Oktober 2026 · Utkast · Illustrasjon med fiktive tall</text>
+</svg>
