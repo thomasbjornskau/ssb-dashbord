@@ -1,10 +1,9 @@
 site_name: Dashbord i SSB
 site_description: Veiledere om dashbord i Statistisk sentralbyrå, del A–E, med arbeidsark til kurset «Datavisualisering og dashbord».
 site_author: Thomas Bjørnskau
-# Sett inn adressen når repoet er publisert, f.eks. https://<bruker>.github.io/ssb-dashbordveileder/
-# site_url:
-repo_name: ssb-dashbordveileder
-# repo_url: https://github.com/<bruker>/ssb-dashbordveileder
+site_url: https://thomasbjornskau.github.io/ssb-dashbord/
+repo_name: ssb-dashbord
+repo_url: https://github.com/thomasbjornskau/ssb-dashbord
 copyright: Utkast · Statistisk sentralbyrå · Veiledning i bruk av dashbord
 
 # Sidene ligger som .html-filer. Da virker de relative lenkene til figurene også i rå HTML.
