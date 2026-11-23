@@ -31,6 +31,8 @@ mkdocs serve
 
 Åpne http://127.0.0.1:8000.
 
+Nettstedet: https://thomasbjornskau.github.io/ssb-dashbord/
+
 ## Redigere
 
 - **Tekst:** rediger markdown-filene i `docs/`. Overskrifter med `#` blir menyen til høyre.
